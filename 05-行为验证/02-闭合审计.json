@@ -1,0 +1,15 @@
+{
+  "path": "C:\\Users\\admin\\Desktop\\Main2\\如文写作系统-5.0-候选版-20260828\\05-行为验证\\02-表现设计师结果.md",
+  "sha256": "c1fca6d9f452456db890fbb9830a6aae6d32971befa4d8941e4b21812e6ab703",
+  "pass": false,
+  "decision": "remain_proposed",
+  "findings": [
+    {
+      "category": "closed_mapping",
+      "count": 1,
+      "samples": [
+        "情绪不单独命名"
+      ]
+    }
+  ]
+}

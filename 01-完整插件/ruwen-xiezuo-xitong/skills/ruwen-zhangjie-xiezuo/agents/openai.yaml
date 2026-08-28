@@ -1,0 +1,6 @@
+interface:
+  display_name: "如文·章节写作"
+  short_description: "在隔离上下文中写作、阅读、编辑、核验并维护已批准的连载章节"
+  default_prompt: "使用 $ruwen-zhangjie-xiezuo 根据已批准的章节情境写作或审读当前章节，并遵守批准与记忆更新边界。"
+policy:
+  allow_implicit_invocation: true

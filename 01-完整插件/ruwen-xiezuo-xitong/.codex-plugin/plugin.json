@@ -1,0 +1,18 @@
+{
+  "name": "ruwen-xiezuo-xitong",
+  "version": "5.0.0",
+  "description": "如文写作系统5.0候选版：以隔离岗位管理项目知识、故事构思、文学转译与章节生产。",
+  "author": {
+    "name": "OpenAI Codex"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "如文写作系统",
+    "shortDescription": "构思长篇故事并在隔离上下文中完成章节写作与治理。",
+    "longDescription": "提供两个入口：如文·故事构思负责项目初始化、创意沟通、外部知识接入、世界人物设计和章节情境编译；如文·章节写作负责隔离写作、阅读、编辑、核验与批准后的记忆维护。",
+    "developerName": "OpenAI Codex",
+    "category": "Writing",
+    "capabilities": ["Write", "Project memory"],
+    "defaultPrompt": "使用如文写作系统与我构思故事，或根据已批准的章节情境写作下一章。"
+  }
+}

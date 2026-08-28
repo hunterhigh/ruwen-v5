@@ -1,0 +1,9 @@
+{
+  "source": "C:/Users/admin/Desktop/Main2/文学实验与V4系列全量交付包-20260827/02-完整插件/serial-fiction-studio-v4-1",
+  "version": "0.3.1",
+  "hash_method": "relative POSIX path + NUL + per-file SHA256 hex + newline; case-insensitive path sort; excludes __pycache__ and .pyc",
+  "file_count": 56,
+  "tree_sha256": "0ea8da0c911d3c131b28b7bbc30fe6961636ebbe860998ba38c5717d5fcc1fd9",
+  "captured_at": "2026-08-28",
+  "policy": "read-only baseline; 如文5.0不得覆盖"
+}

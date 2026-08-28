@@ -1,0 +1,6 @@
+interface:
+  display_name: "如文·故事构思"
+  short_description: "初始化小说项目，构思故事，并把创意与研究编译为干净章节情境"
+  default_prompt: "使用 $ruwen-gushi-gousi 与我构思或整理这个小说项目，并在写入前给出创意理解与治理预览。"
+policy:
+  allow_implicit_invocation: true

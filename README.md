@@ -15,8 +15,28 @@
 
 候选插件已并行登记到个人插件市场，安装名为 `ruwen-xiezuo-xitong`；不会替换V4.1。
 
+项目商业顾问以独立插件和 Git submodule 维护，不是 Ruwen 的第三个写作入口。它负责项目立项与上线后的经营决策，不进入章节生产链。
+
 ## 目录
 
 - `01-完整插件/ruwen-xiezuo-xitong/`：可验证插件本体。
+- `02-项目商业顾问/project-commercial-advisor/`：独立私有子仓库；提供通用项目商业分析、起点资料和确定性计算。
 - `03-设计与迁移/`：架构、资料职责与V4.1迁移说明。
 - `04-校验记录/`：冻结哈希和验证报告。
+
+## 克隆与同步
+
+完整克隆父仓库及商业顾问：
+
+```powershell
+git clone --recurse-submodules https://github.com/hunterhigh/ruwen-v5.git
+```
+
+已有父仓库补齐或更新子仓库：
+
+```powershell
+git submodule update --init --recursive
+git submodule update --remote --merge -- 02-项目商业顾问/project-commercial-advisor
+```
+
+修改商业顾问时，先在子仓库测试、提交并推送，再在父仓库提交新的 submodule commit。父仓库固定经过验证的子仓库版本；`01-完整插件` 不依赖子仓库运行代码。

@@ -1,0 +1,4 @@
+interface:
+  display_name: "网文体裁编辑器"
+  short_description: "深度编辑批准前的中文网文初稿"
+  default_prompt: "使用 $web-fiction-genre-editor 直接编辑这份 Author 批准前初稿。"

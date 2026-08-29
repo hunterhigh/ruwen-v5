@@ -1,0 +1,18 @@
+{
+  "name": "web-fiction-genre-editor",
+  "version": "0.1.0",
+  "description": "独立编辑中文连载网文的批准前初稿，进行叙事补充、深度扩写、拼接重织与语言整理。",
+  "author": {
+    "name": "OpenAI Codex"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "网文体裁编辑器",
+    "shortDescription": "深度编辑尚未批准的中文网文初稿。",
+    "longDescription": "在不加入 Author 工作流、不直接写入正典的前提下，编辑批准前网文初稿；从当前剧情出发完成叙事补充、解释性讲述、章节扩写、拼接重织、文学平衡与中文表达整理。",
+    "developerName": "OpenAI Codex",
+    "category": "Writing",
+    "capabilities": ["Edit", "Write"],
+    "defaultPrompt": "使用网文体裁编辑器深度编辑这份批准前初稿，并保留 Author 原稿。"
+  }
+}

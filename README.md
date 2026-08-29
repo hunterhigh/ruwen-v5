@@ -17,7 +17,7 @@
 
 项目商业顾问以独立插件和 Git submodule 维护，不是 Ruwen 的第三个写作入口。它负责项目立项与上线后的经营决策，不进入章节生产链。
 
-网文体裁编辑器同样与 Ruwen 独立，但当前作为父仓库内可独立复制的轻量插件维护。它只在用户单独调用时编辑 Author 的批准前初稿，不进入 Ruwen 岗位链；改后稿仍由原项目批准后写入正典。
+网文体裁编辑器同样以独立插件和 Git submodule 维护。它只在用户单独调用时编辑 Author 的批准前初稿，不进入 Ruwen 岗位链；改后稿仍由原项目批准后写入正典。
 
 ## 目录
 
@@ -25,11 +25,11 @@
 - `02-项目商业顾问/project-commercial-advisor/`：独立私有子仓库；提供通用项目商业分析、起点资料和确定性计算。
 - `03-设计与迁移/`：架构、资料职责与V4.1迁移说明。
 - `04-校验记录/`：冻结哈希和验证报告。
-- `06-网文体裁编辑器/web-fiction-genre-editor/`：独立编辑批准前中文网文初稿的轻量插件。
+- `06-网文体裁编辑器/web-fiction-genre-editor/`：独立私有子仓库；编辑批准前中文网文初稿。
 
 ## 克隆与同步
 
-完整克隆父仓库及商业顾问：
+完整克隆父仓库及两个独立插件：
 
 ```powershell
 git clone --recurse-submodules https://github.com/hunterhigh/ruwen-v5.git
@@ -40,6 +40,7 @@ git clone --recurse-submodules https://github.com/hunterhigh/ruwen-v5.git
 ```powershell
 git submodule update --init --recursive
 git submodule update --remote --merge -- 02-项目商业顾问/project-commercial-advisor
+git submodule update --remote --merge -- 06-网文体裁编辑器/web-fiction-genre-editor
 ```
 
-修改商业顾问时，先在子仓库测试、提交并推送，再在父仓库提交新的 submodule commit。父仓库固定经过验证的子仓库版本；`01-完整插件` 不依赖子仓库运行代码。
+修改商业顾问或网文体裁编辑器时，先在对应子仓库测试、提交并推送，再在父仓库提交新的 submodule commit。父仓库固定经过验证的子仓库版本；`01-完整插件` 不依赖两个子仓库的运行代码。

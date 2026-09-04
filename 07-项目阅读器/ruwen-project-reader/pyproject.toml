@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ruwen-project-reader"
+version = "0.1.0"
+description = "Local, read-only project reader and annotation batch manager for Ruwen"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[project.scripts]
+ruwen-reader = "ruwen_project_reader.__main__:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+include-package-data = true
+
+[tool.setuptools.package-data]
+ruwen_project_reader = ["web/**/*"]

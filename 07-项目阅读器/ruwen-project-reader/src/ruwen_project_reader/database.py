@@ -90,6 +90,19 @@ class ReaderDatabase:
     def _dict(row: sqlite3.Row | None) -> dict[str, Any] | None:
         return dict(row) if row is not None else None
 
+    def get_state(self, key: str, default: str | None = None) -> str | None:
+        with self._lock:
+            row = self.connection.execute("SELECT value FROM project_state WHERE key = ?", (key,)).fetchone()
+        return str(row["value"]) if row is not None else default
+
+    def set_state(self, key: str, value: str) -> None:
+        with self._lock, self.connection:
+            self.connection.execute(
+                "INSERT INTO project_state(key, value) VALUES(?, ?) "
+                "ON CONFLICT(key) DO UPDATE SET value = excluded.value",
+                (key, value),
+            )
+
     def current_batch(self) -> dict[str, Any]:
         with self._lock:
             row = self.connection.execute(

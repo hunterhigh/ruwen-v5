@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="ruwen-token" content="__RUWEN_TOKEN__">
+  <title>Ruwen 项目阅读器</title>
+  <link rel="stylesheet" href="/assets/app.css">
+</head>
+<body>
+<div class="app" id="app" aria-busy="true">
+  <header class="top">
+    <div class="project"><span id="projectName">正在打开项目</span></div>
+    <div class="search"><input id="search" type="search" placeholder="查找文件" aria-label="查找文件"></div>
+    <div class="type-control"><label><span>项目字</span><select id="projectFont" aria-label="项目名字体"><option value="xiaowei">站酷小薇体</option><option value="wenkai">霞鹜文楷</option><option value="noto">思源宋体</option></select></label></div>
+  </header>
+
+  <div class="work">
+    <aside class="tree" aria-label="项目文件"><div class="tree-label">项目文件</div><div id="tree"></div></aside>
+
+    <main class="reader">
+      <div class="reader-head"><div class="crumb" id="crumb">尚未选择文件</div><div class="views"><button class="active" data-view="reading">阅读</button><button data-view="source">源文</button><button data-view="versions">版本</button></div></div>
+      <article class="reading" id="reading"><div class="empty">从左侧选择文件。</div></article>
+      <section class="source" id="source"><pre id="sourceText"></pre></section>
+      <section class="versions" id="versions"><div class="empty">选择文件后读取版本。</div></section>
+    </main>
+
+    <aside class="notes" aria-label="批注">
+      <div class="notes-top"><b>写批注</b><span id="documentNoteCount">本文 0 条</span></div>
+      <div class="anchor" id="anchor"><b>尚未选择原文</b><span>在阅读视图中选择一段文字。</span></div>
+      <textarea id="noteInput" placeholder="输入你的判断、要求或疑问" disabled></textarea>
+      <div class="send"><button id="sendNote" disabled>发送至当前批次 →</button></div>
+      <div class="sent" id="sent">已保存，原文未改变。</div>
+      <div class="existing"><div class="existing-head">本批次中的本文批注</div><div id="noteList"></div></div>
+    </aside>
+  </div>
+
+  <footer class="batch">
+    <div class="label">当前批次</div>
+    <div class="summary"><b id="batchNumber">第 001 批</b><span id="batchSummary">0 条　/　0 个文件　/　草稿</span></div>
+    <div class="actions"><button class="manage" id="manageBatch">查看</button><button class="seal-link" id="openSeal">封存并准备 Ruwen 处理 →</button></div>
+  </footer>
+</div>
+
+<div class="overlay" id="overlay" aria-hidden="true"><aside class="drawer" aria-label="当前批次">
+  <div class="drawer-top"><div><h1 id="drawerTitle">当前批次</h1><p id="drawerSummary"></p></div><button class="close" id="closeDrawer" aria-label="关闭">×</button></div>
+  <div class="batch-tabs" id="batchHistory"></div>
+  <div id="batchGroups"></div>
+  <div class="drawer-foot"><p id="drawerFootnote">封存后不可编辑。<br>新批注进入下一批。</p><button id="sealBatch">封存当前批次</button></div>
+  <div class="result" id="sealResult"><h3>批次已封存</h3><p id="snapshotPath"></p><textarea id="processingPrompt" readonly></textarea><button id="copyPrompt">复制 Ruwen 任务说明</button></div>
+</aside></div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="/assets/app.js"></script>
+</body>
+</html>

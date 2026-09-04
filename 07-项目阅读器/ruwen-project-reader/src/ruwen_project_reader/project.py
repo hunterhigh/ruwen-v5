@@ -49,6 +49,18 @@ class ProjectReader:
     def _is_supported(self, path: Path) -> bool:
         return path.suffix.lower() in self.SUPPORTED_EXTENSIONS
 
+    def _is_generated_snapshot(self, path: Path) -> bool:
+        relative = path.relative_to(self.root)
+        parts = relative.parts
+        stem = path.stem
+        return (
+            len(parts) >= 3
+            and parts[-3:-1] == ("治理", "批注")
+            and path.suffix.lower() == ".json"
+            and stem.startswith("批次-")
+            and stem.removeprefix("批次-").isdigit()
+        )
+
     def tree(self) -> list[dict[str, Any]]:
         return self._scan_directory(self.root)
 
@@ -67,7 +79,7 @@ class ProjectReader:
                 children = self._scan_directory(entry)
                 if children:
                     nodes.append({"type": "directory", "name": entry.name, "children": children})
-            elif entry.is_file() and self._is_supported(entry):
+            elif entry.is_file() and self._is_supported(entry) and not self._is_generated_snapshot(entry):
                 nodes.append(
                     {
                         "type": "file",

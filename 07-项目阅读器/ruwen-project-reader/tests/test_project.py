@@ -36,6 +36,15 @@ class ProjectReaderTests(unittest.TestCase):
         self.assertNotIn(".ruwen", rendered)
         self.assertNotIn("image.png", rendered)
 
+    def test_tree_hides_generated_batch_snapshots(self) -> None:
+        snapshot_dir = self.root / "治理" / "批注"
+        snapshot_dir.mkdir(parents=True)
+        (snapshot_dir / "批次-0001.json").write_text("{}", encoding="utf-8")
+        (snapshot_dir / "说明.md").write_text("# 批注说明", encoding="utf-8")
+        rendered = repr(ProjectReader(self.root).tree())
+        self.assertNotIn("批次-0001.json", rendered)
+        self.assertIn("说明.md", rendered)
+
     def test_read_returns_content_and_hash(self) -> None:
         reader = ProjectReader(self.root)
         result = reader.read("世界/当前态势.md")

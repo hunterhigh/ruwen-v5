@@ -61,6 +61,14 @@ class ReaderDatabaseTests(unittest.TestCase):
         self.db = ReaderDatabase(self.root)
         self.assertEqual(len(self.db.list_annotations()), 1)
 
+    def test_project_preferences_survive_reopen(self) -> None:
+        self.db.set_state("project_font", "wenkai")
+        self.db.set_state("last_opened_file", "人物/沈砚.md")
+        self.db.close()
+        self.db = ReaderDatabase(self.root)
+        self.assertEqual(self.db.get_state("project_font"), "wenkai")
+        self.assertEqual(self.db.get_state("last_opened_file"), "人物/沈砚.md")
+
 
 if __name__ == "__main__":
     unittest.main()

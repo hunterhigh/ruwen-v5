@@ -4,6 +4,10 @@ All notable changes to Ruwen Writing System are recorded here. The project follo
 
 ## [Unreleased]
 
+### Documentation
+
+- Added matched English and Simplified Chinese repository landing pages with a language switch.
+
 ## [5.0.0] - 2026-09-21
 
 ### Added

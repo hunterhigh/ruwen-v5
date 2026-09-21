@@ -1,8 +1,14 @@
+<div align="right">
+
+**English** | [简体中文](README.zh-CN.md)
+
+</div>
+
 # Ruwen Writing System · 如文写作系统
 
 **A structured AI writing system for long-form fiction: from story design and project knowledge to isolated chapter production, review, and canonical memory.**
 
-如文把长篇小说创作拆成职责明确、可检查、可恢复的工作环节。它不把“生成一段文字”误当成完整写作系统，而是同时处理故事构思、外部知识、项目声音、章节情境、隔离写作、多角色审读、用户批准与长期记忆维护。
+Ruwen decomposes long-form fiction into work stages with explicit responsibilities, verifiable boundaries, and recoverable state. It treats text generation as one part of a larger system that also manages story development, external knowledge, project voice, chapter situations, isolated drafting, multi-role review, user approval, and long-term memory.
 
 ## What it contains
 

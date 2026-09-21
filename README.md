@@ -29,6 +29,10 @@ The separation is intentional: planning records, correction history, and validat
 | [`Web Fiction Genre Editor`](06-网文体裁编辑器/web-fiction-genre-editor/) | Edits an author's pre-approval draft for genre-specific reading experience | Version-pinned as an independent submodule; edited work still returns to the original approval flow |
 | [`Ruwen Project Reader`](07-项目阅读器/ruwen-project-reader/) | Reads and summarizes a Ruwen project without changing its canon | A separate read-only support tool |
 
+## Project case study
+
+- [中文案例：把“一次性生成”变成“可持续创作”](docs/portfolio/ruwen-case-study.zh-CN.md)
+
 ## Repository structure
 
 ```text

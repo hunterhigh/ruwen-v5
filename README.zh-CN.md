@@ -29,6 +29,10 @@
 | [`Web Fiction Genre Editor`](06-网文体裁编辑器/web-fiction-genre-editor/) | 针对网文阅读体验编辑 Author 尚未批准的初稿 | 作为独立子模块固定版本；编辑稿仍需返回原批准流程 |
 | [`Ruwen Project Reader`](07-项目阅读器/ruwen-project-reader/) | 在不修改正典的前提下读取和概括如文项目 | 独立的只读支持工具 |
 
+## 项目案例
+
+- [如文写作系统：把“一次性生成”变成“可持续创作”](docs/portfolio/ruwen-case-study.zh-CN.md)
+
 ## 仓库结构
 
 ```text

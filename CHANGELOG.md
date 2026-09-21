@@ -7,6 +7,7 @@ All notable changes to Ruwen Writing System are recorded here. The project follo
 ### Documentation
 
 - Added matched English and Simplified Chinese repository landing pages with a language switch.
+- Added a Chinese portfolio case study with the 14-page *Wenfengtai* fantasy sample chapter as a reviewable output artifact.
 
 ## [5.0.0] - 2026-09-21
 

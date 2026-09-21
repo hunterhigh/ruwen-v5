@@ -1,6 +1,3 @@
-[submodule "02-项目商业顾问/project-commercial-advisor"]
-	path = 02-项目商业顾问/project-commercial-advisor
-	url = https://github.com/hunterhigh/project-commercial-advisor.git
 [submodule "06-网文体裁编辑器/web-fiction-genre-editor"]
 	path = 06-网文体裁编辑器/web-fiction-genre-editor
 	url = https://github.com/hunterhigh/web-fiction-genre-editor.git

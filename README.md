@@ -1,46 +1,83 @@
-# 如文写作系统 5.0 候选版
+# Ruwen Writing System · 如文写作系统
 
-本交付以2026-08-27的V4.1 `0.3.1`为冻结技术基线，新建独立插件 `ruwen-xiezuo-xitong`。原0827包和《东方战国》项目均未被迁移或改写。
+**A structured AI writing system for long-form fiction: from story design and project knowledge to isolated chapter production, review, and canonical memory.**
 
-## 两个入口
+如文把长篇小说创作拆成职责明确、可检查、可恢复的工作环节。它不把“生成一段文字”误当成完整写作系统，而是同时处理故事构思、外部知识、项目声音、章节情境、隔离写作、多角色审读、用户批准与长期记忆维护。
 
-- `如文·故事构思`：项目初始化、创意沟通、人物世界设计、外部知识接入、表现能力转译、跨章构思和章节情境编译。
-- `如文·章节写作`：隔离写作、首次阅读、有限编辑、情节与现实核验、用户批准和记忆维护。
+## What it contains
 
-## 当前状态
+### Core writing system
 
-版本标识为 `5.0.0-candidate`；插件manifest使用符合规范的SemVer `5.0.0`，候选状态由交付目录、说明与资源状态表达。
+The main plugin provides two public entry points:
 
-结构与自动化测试已通过。文学效果尚未因“创建完成”而被宣称提高；项目声音或领域表现能力必须经过闭合审计、非正典试写和用户阅读后才能激活。
+- **如文·故事构思** — initializes and extends a fiction project, integrates external knowledge and literary references, develops characters and worlds, and compiles approved ideas into chapter situations.
+- **如文·章节写作** — writes from an approved chapter situation in an isolated context, then coordinates first reading, editing, plot and reality checks, user approval, and canonical memory updates.
 
-候选插件已并行登记到个人插件市场，安装名为 `ruwen-xiezuo-xitong`；不会替换V4.1。
+The separation is intentional: planning records, correction history, and validators should guide the work without leaking into the prose itself.
 
-项目商业顾问以独立插件和 Git submodule 维护，不是 Ruwen 的第三个写作入口。它负责项目立项与上线后的经营决策，不进入章节生产链。
+### Supporting components
 
-网文体裁编辑器同样以独立插件和 Git submodule 维护。它只在用户单独调用时编辑 Author 的批准前初稿，不进入 Ruwen 岗位链；改后稿仍由原项目批准后写入正典。
+| Component | Role | Relationship to the core |
+| --- | --- | --- |
+| [`Project Commercial Advisor`](02-项目商业顾问/project-commercial-advisor/) | Uses platform evidence, project economics, and operating results to support start / continue / adjust / stop decisions | Maintained inside this repository, but not a third writing entry and not part of chapter production |
+| [`Web Fiction Genre Editor`](06-网文体裁编辑器/web-fiction-genre-editor/) | Edits an author's pre-approval draft for genre-specific reading experience | Version-pinned as an independent submodule; edited work still returns to the original approval flow |
+| [`Ruwen Project Reader`](07-项目阅读器/ruwen-project-reader/) | Reads and summarizes a Ruwen project without changing its canon | A separate read-only support tool |
 
-## 目录
+## Repository structure
 
-- `01-完整插件/ruwen-xiezuo-xitong/`：可验证插件本体。
-- `02-项目商业顾问/project-commercial-advisor/`：独立私有子仓库；提供通用项目商业分析、起点资料和确定性计算。
-- `03-设计与迁移/`：架构、资料职责与V4.1迁移说明。
-- `04-校验记录/`：冻结哈希和验证报告。
-- `06-网文体裁编辑器/web-fiction-genre-editor/`：独立私有子仓库；编辑批准前中文网文初稿。
-
-## 克隆与同步
-
-完整克隆父仓库及两个独立插件：
-
-```powershell
-git clone --recurse-submodules https://github.com/hunterhigh/ruwen-v5.git
+```text
+01-完整插件/              Ruwen core plugin
+02-项目商业顾问/          Integrated commercial decision component
+03-设计与迁移/            Architecture and migration records
+04-校验记录/              Frozen hashes and validation reports
+05-行为验证/              Behavioral validation material
+06-网文体裁编辑器/        Independently versioned editing submodule
+07-项目阅读器/            Read-only project reader
+docs/                     Additional documentation
 ```
 
-已有父仓库补齐或更新子仓库：
+## Get started
 
-```powershell
-git submodule update --init --recursive
-git submodule update --remote --merge -- 02-项目商业顾问/project-commercial-advisor
-git submodule update --remote --merge -- 06-网文体裁编辑器/web-fiction-genre-editor
+Clone the repository and its remaining independent component:
+
+```bash
+git clone --recurse-submodules https://github.com/hunterhigh/ruwen-writing-system.git
 ```
 
-修改商业顾问或网文体裁编辑器时，先在对应子仓库测试、提交并推送，再在父仓库提交新的 submodule commit。父仓库固定经过验证的子仓库版本；`01-完整插件` 不依赖两个子仓库的运行代码。
+The installable core plugin is located at:
+
+```text
+01-完整插件/ruwen-xiezuo-xitong/
+```
+
+The commercial advisor is maintained directly in this repository at:
+
+```text
+02-项目商业顾问/project-commercial-advisor/
+```
+
+## Design principles
+
+- **Context isolation.** The author receives the approved creative situation, not the full planning and correction machinery.
+- **Canon has an approval boundary.** Drafts and analyses do not become project truth until the user approves them.
+- **Roles have narrow authority.** Readers, editors, validators, and memory maintainers contribute distinct judgments instead of collapsing into one opaque agent.
+- **External knowledge remains attributable.** Research and literary references are incorporated as project resources rather than silently blended into generated prose.
+- **Claims follow evidence.** Structural validation can establish package integrity; it cannot by itself prove improved literary quality.
+
+## Versioning
+
+The repository name is version-neutral. Product versions are managed explicitly instead of being embedded in the repository slug:
+
+- [`VERSION`](VERSION) records the current Ruwen release line.
+- [`CHANGELOG.md`](CHANGELOG.md) records user-visible changes.
+- Git tags and GitHub Releases use `vMAJOR.MINOR.PATCH`.
+- Installable components keep their own manifest versions when they can evolve independently.
+
+- Current Ruwen version: **5.0.0**
+- Current maturity: **Candidate**
+
+The core package has passed its structural and automated checks. Literary quality remains a project-level outcome: a voice or domain capability is activated only after a closed audit, non-canonical trial writing, and user review.
+
+## Background
+
+Ruwen 5.0 was built from the frozen 2026-08-27 V4.1 `0.3.1` technical baseline as a separate plugin. The original package and the existing 《东方战国》 project were not migrated or rewritten in place.

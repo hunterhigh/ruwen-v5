@@ -1,0 +1,25 @@
+{
+  "name": "project-commercial-advisor",
+  "version": "0.2.0",
+  "description": "以平台市场证据、项目经济模型和真实经营结果支持项目立项与持续投入决策。",
+  "author": {
+    "name": "hunterhigh",
+    "url": "https://github.com/hunterhigh"
+  },
+  "homepage": "https://github.com/hunterhigh/ruwen-writing-system",
+  "repository": "https://github.com/hunterhigh/ruwen-writing-system",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "项目商业顾问",
+    "shortDescription": "研究市场证据，判断项目应立项、调整或停止。",
+    "longDescription": "面向项目全生命周期的通用商业顾问：以起点或17K等平台的当前市场证据支持立项，上线后再用真实经营数据检验并修正判断。",
+    "developerName": "hunterhigh",
+    "category": "Productivity",
+    "capabilities": ["Research", "Data analysis"],
+    "defaultPrompt": [
+      "分析这个项目是否值得立项，并说明关键假设和验证方法。",
+      "不预设题材，基于目标平台的当前市场事实发现选题机会。",
+      "根据项目上线后的数据，判断应该继续、调整还是停止投入。"
+    ]
+  }
+}

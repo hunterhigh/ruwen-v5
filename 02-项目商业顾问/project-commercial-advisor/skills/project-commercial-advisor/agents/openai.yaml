@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目商业顾问"
+  short_description: "基于市场证据与经营数据支持项目投入决策"
+  default_prompt: "使用 $project-commercial-advisor 分析这个项目是否值得立项或继续投入。"

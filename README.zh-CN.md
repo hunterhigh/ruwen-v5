@@ -32,7 +32,7 @@
 ## 项目案例
 
 - [如文写作系统：把“一次性生成”变成“可持续创作”](docs/portfolio/ruwen-case-study.zh-CN.md)
-- [小说样式章阅读入口](docs/index.html)：《东方战国》第五十五章《寨中七日》裴景行版与《问锋台》。
+- [小说样式章阅读入口](https://hunterhigh.github.io/ruwen-writing-system/)：《东方战国》第五十五章《寨中七日》裴景行版与《问锋台》。
 - [《东方战国》小说项目](projects/东方战国/)：保留 2026 年 8 月 13 日完整项目快照及其创作过程材料。
 
 ## 仓库结构

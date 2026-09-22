@@ -32,7 +32,7 @@ The separation is intentional: planning records, correction history, and validat
 ## Project case study
 
 - [中文案例：把“一次性生成”变成“可持续创作”](docs/portfolio/ruwen-case-study.zh-CN.md)
-- [Novel style chapter reader](docs/index.html): *Eastern Warring States*, chapter 55 (Pei Jingxing edition), and *Wenfengtai*.
+- [Novel style chapter reader](https://hunterhigh.github.io/ruwen-writing-system/): *Eastern Warring States*, chapter 55 (Pei Jingxing edition), and *Wenfengtai*.
 - [Eastern Warring States novel project](projects/东方战国/): the complete project snapshot from August 13, 2026.
 
 ## Repository structure

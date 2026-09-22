@@ -1,0 +1,52 @@
+{
+  "chapter": 4,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-003.md",
+    "tail_characters": 3500
+  },
+  "situation_seed_path": "situation-seeds/chapter-004-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapter-003 ending",
+      "text": "饶景行次日清晨随村妇下山，不得带刀；他带空篓、水囊和两枚薄钱。足伤已能行半日山路，但高恢复与高消耗使庙中稀粥无法长期支撑。",
+      "activation": "饶景行的身体、食欲、行路选择和解决食物问题的行动立即改变。"
+    },
+    {
+      "source": "user-approved shrine direction",
+      "text": "山庙供奉行山公：一名死后受祭的本地开路、标泉、识药和救助旅人的历史人物，没有真实神力。木像原托路杖与药囊；庙兼具水站、避雨、轻伤处理和山路维护功能。",
+      "activation": "饶景行进入镇市并取得旧书后，能第一次理解自己住处、老人工作和木像残缺器物。"
+    },
+    {
+      "source": "chapter-004 approved design",
+      "text": "山庙在赣南石梁城外。石梁城及东门镇市由顾氏直接控制，顾氏名义服越；普通人首先感受到顾氏守门、征粮、修路与旗物。",
+      "activation": "饶景行必须通过城门、市场和他人指认确认所在位置与眼前权力，而不是阅读政治说明。"
+    },
+    {
+      "source": "user language direction",
+      "text": "本地口语近似饶景行父母提及并播放过的旧地球赣南客家家族方言录音，但长期分化，仍有大量异音、异义和不同语法；本地书写必须从头学习。",
+      "activation": "市场多人交谈让饶景行听见稳定音变，改变他的听辨速度、家庭记忆和学习方法。"
+    },
+    {
+      "source": "chapter-004 approved design",
+      "text": "饶景行通过具体劳动获得一册残旧图文蒙书；老人随后允许他看庙中行山公旧册。两本书只支持生活识字和庙史，不提供天下百科。",
+      "activation": "书改变饶景行夜间学习动作，也让老人重新判断他是否值得长期提供纸书。"
+    },
+    {
+      "source": "user food direction",
+      "text": "饶景行主动解决食物问题。他在获得一段支沟的默许后，用旧竹篾、麻线、石头和食饵做鱼笼；调整后捕到数尾小鱼，只缓解部分消耗，并分给提供许可与材料的人。",
+      "activation": "饥饿、材料、溪段归属和分鱼直接改变他的劳动、关系与当晚食物。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "章节轻松一些，写晴日山城、石桥、河埠、瓦屋、染布、市场和人群的可感风光；不要写成账本、词汇表或势力百科。非空白字符至少10000，超过不缩减。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

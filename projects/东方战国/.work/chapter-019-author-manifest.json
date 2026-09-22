@@ -1,0 +1,53 @@
+{
+  "chapter": 19,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-018.md",
+    "tail_characters": 2600
+  },
+  "situation_seed_path": "situation-seeds/chapter-019-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与程介.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-018.md",
+      "text": "饶景行已登记为石梁东乡行山里寄籍，编入程介带领的随军役夫；身穿土黄新短褐，携蓑衣、饭袋、两根背绳、短杠和褐纹小石，未获兵器与甲。",
+      "activation": "这决定他在行路和校场中的位置、身体感受、随身物及不能越过的战斗队边界。"
+    },
+    {
+      "source": "chapters/chapter-018.md",
+      "text": "谢馆出二十鸟铳卒、三十长枪卒及旗手，谢岱、谢垣、程介等佩刀家臣另计；章鹞与陆槐分别带队。",
+      "activation": "谢馆队伍需要在路上保持并在石梁重新验看，给饶景行提供对规模变化的直接参照。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "石梁备约六百，由顾昭统领、姜衡协理；谢馆只是其中一个下层小馆。顾昭记得饶景行但只确认其归役夫，不提升为武士。",
+      "activation": "这改变谢岱、程介和饶景行在顾昭面前的站位、说话权和对旧功的期待。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "顾衍四十七岁，是顾氏家督之弟与本次总大将；鬓角灰白，鼻翼右侧有箭擦旧痕，黑漆板甲系深蓝绳，三片向后压低的白叶前立，听回报时捻左手小指关节。",
+      "activation": "顾昭向其复命时，饶景行从可见礼序与外貌第一次辨认顾氏更高权力中心。"
+    },
+    {
+      "source": "characters/guzhao.md",
+      "text": "顾昭右眉有短疤，顾棠亲兄，曾确认饶景行救妹与杀熊之功；身份高于谢岱，面对顾氏更高人物仍是晚辈与下属。",
+      "activation": "旧识让顾昭会认出饶景行，但军队层级迫使这次相见只围绕所属与用途。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "顾氏三千是赣南常规可持续动员的一部分；正文通过延续的深青旗、营地范围和不同支系三叶纹形成感受。其他赣南家族并非顾氏臣属。",
+      "activation": "空间尺度和末尾诸家到来将改变饶景行对谢馆、顾昭和顾氏军队大小的认识。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "source": "narrative-directives.md#写作中",
+      "text": "先呈现可感知事实，再允许人物解释；人物解释可以错。饶景行不自动理解本地权谋、政治和忠诚。"
+    }
+  ],
+  "maximum_context_characters": 15500
+}

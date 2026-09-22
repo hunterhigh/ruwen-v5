@@ -1,0 +1,19 @@
+{
+  "chapter": 11,
+  "latest_approved_prose": {"path": "chapters/chapter-010.md", "tail_characters": 4500},
+  "situation_seed_path": "situation-seeds/chapter-011-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": ["author-voice/relationship-lenses/饶景行与程介.md"],
+  "scene_mode_path": "author-voice/scene-modes/武士夜宴外院.md",
+  "active_scene_facts": [
+    {"source":"chapters/chapter-010.md","text":"秋猎熊死后，饶景行无外伤但短衣破裂、满身熊血，持续发热、口渴与强饥饿；他仍是无弓、无刀、无席位的外围劳力，熊功、熊皮、奖赏与去留未定。","activation":"他必须在不知为何被留下的情况下继续搬运，并把水、清洗、衣物和食物置于抽象荣誉之前。"},
+    {"source":"approved chapter 11 outline","text":"程介二十二岁，是谢岱麾下常与村民打交道的年轻家臣；中等偏矮、鼻梁晒斑、左虎牙略歪，穿洗白青褐旧衣，刀柄缠布褪色，腕系麻绳。","activation":"他在后场清点与跑腿中具体帮助饶景行，也以工作间闲谈成为了解本地世界的有限窗口。"},
+    {"source":"approved chapter 11 outline","text":"饶景行此前只称馆主的人名为谢岱；顾棠兄长与秋猎头领为顾昭；当晚馆邸主人姜衡是顾昭、顾棠的母族表兄。新姓名与婚姻关系仍是候选设定，须随本章正文审批后才正典化。","activation":"这些名字只在报门、让路、传赏与程介辨认宾客时进入，帮助主角理解谁能命令谁。"},
+    {"source":"approved chapter 11 outline","text":"近期谷地战事的官面说法是邱氏拒缴新增军役并截走三车军粮；村间另说顾氏把临时征发变成常例并取种粮。程介只在战后送过簿册，不知谁先杀使者，也不确认邱氏已亡。","activation":"谈话必须保留来源差异和不确定性；主角只能形成初步判断，不能从一次闲聊学会权谋。"},
+    {"source":"chapters/chapter-001.md","text":"饶景行私藏一柄遮住黑底白折角纹的长刀，现仍由罗翁保管；他曾因自卫失手杀死持该纹样的败兵。外界无人知道这件事。","activation":"听见黑旗白折角属于邱氏时，他必须控制身体反应，不承认见过纹样，不追问败兵身份。"},
+    {"source":"approved chapter 11 outline","text":"顾昭以猎队头领身份命人给饶景行足量饭食，但不准其进入男席；夜宴将深时，女席忽然传令要见杀熊的劳力，守卫与程介都感到为难。","activation":"赏饭让主角暂时得到物质满足而不升格；女席召见只作为新门槛收束本章，不展开后续羞辱情节。"}
+  ],
+  "directive_snippets":[{"text":"写第十一章《熊后有宴》，非空白字符至少10000，目标约11000至13000且超出不缩减。章节由当日下午运熊连续到夜宴深时，轻松、具体、有生活感；不写成家谱、名册、账本或世界观讲义。程介有自己的工作、饥饿和怕惹事，友善但地位高于主角。结尾停在女席召见及主角走向内廊门槛，不进入脱衣、斩首威胁或角抵。"}],
+  "maximum_context_characters": 20000
+}

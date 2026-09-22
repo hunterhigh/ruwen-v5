@@ -1,0 +1,19 @@
+{
+  "chapter": 12,
+  "latest_approved_prose": {"path": "chapters/chapter-011.md", "tail_characters": 3600},
+  "situation_seed_path": "situation-seeds/chapter-012-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": ["author-voice/relationship-lenses/饶景行与姜馆女席.md"],
+  "scene_mode_path": "author-voice/scene-modes/女席酒宴与身份越界.md",
+  "active_scene_facts": [
+    {"source":"chapters/chapter-011.md","text":"饶景行奉女席主位正式传唤进入姜馆内厅；无武器，鞋留外廊，程介和男守卫在屏风外。他穿过短粗麻借衣、长裤、绑腿和贴身短裤，短褐下没有另一件上衣。","activation":"他不能自由退席或凭空多出衣层；每次服从都会具体减少遮蔽和退路。"},
+    {"source":"approved chapter 12 outline","text":"荀含章是姜衡正妻和女席主位，二十七岁，长鹅蛋脸、浓黑高弧眉、右太阳穴近发际有朱痣；深石榴色细绢长衣、暗金袖缘、红漆金齿长梳。她有权把好奇变成温和命令，酒后只耳垂渐热。","activation":"她决定谁能进入、侍女如何动作和验伤何时继续；饶景行真正难以拒绝的是她始终合礼的声音。"},
+    {"source":"approved chapter 12 outline","text":"辛月娘是樊岳正妻，暖肤圆眼、丰润下唇，穿紫红衣、系金褐腰带，戴金鱼耳坠；她酒后声音更亮，最公开欣赏强壮男性，将好奇从肩胸推向腰腿和最后衣物。","activation":"她不断把上一项已经获准的查看解释为下一项也合理，成为越界升级的主要推动者。"},
+    {"source":"approved chapter 12 outline","text":"季宛十八岁，是姚简新婚三月的妻子，浅桃小袖、两颗上门牙微内收，羞怯时以袖掩口；绮娘二十四岁，是姜衡妾室，圆脸、左上门牙略重叠，柳绿窄袖配鹅黄腰带，善察气氛但不能驳正妻。","activation":"季宛从偷看转为害怕并抓侍女衣角；绮娘暗示侍女外出报信，使外部介入有真实传递路径。"},
+    {"source":"characters/gutang.md","text":"顾棠是顾昭之妹，睡凤眼、左唇下小褐痣、白玉簪与金银杏叶步摇；熊袭后不再只把饶景行当外号奇物，但好奇仍有阶层物化。","activation":"她先真心询问有无熊伤，为集体查看提供理由；越界以后她会沉默，最后只作迟到且不足的制止。"},
+    {"source":"approved chapter 12 outline","text":"樊岳三十六岁，是辛月娘丈夫和姜衡资深家臣；高大宽胸，左耳上缘缺角，折过的鼻梁略右偏，佩黑皮缠柄长刀。绮娘、季宛的报信最终使他带醉意闯入女席。","activation":"他只能从外部传话得知失度，入内先见妻子与几乎赤裸的男人；他的责任判断和处分留到下一章。"}
+  ],
+  "directive_snippets":[{"text":"写第十二章《帘内看人》，非空白字符至少10000，目标约11000至13000，超出不缩减。屈辱由闲谈与验伤理由逐层升级，不开场粗暴全脱；身体具体但不露骨色情。饶景行先服从并把衣物叠齐，触及外裤时第一次以礼貌短句拒绝，最终按住贴身短裤不再执行。结尾是樊岳按刀掀帘、先看妻子再看饶景行，所有笑声停止；不写后续斥责、斩首、求情或角抵。"}],
+  "maximum_context_characters": 20000
+}

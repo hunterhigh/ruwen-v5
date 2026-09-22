@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="如文写作系统的小说样式章阅读入口。">
+  <title>如文 · 小说样式章</title>
+  <style>
+    :root { color-scheme: light; font-family: "Noto Serif SC", "Songti SC", "SimSun", serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; color: #28221d; background: #f5f0e7; }
+    main { width: min(100% - 2.5rem, 880px); margin: 0 auto; padding: 72px 0 88px; }
+    .eyebrow { color: #805a38; font: 600 12px/1.5 system-ui, sans-serif; letter-spacing: .2em; }
+    h1 { margin: 14px 0 20px; font-size: clamp(38px, 7vw, 64px); font-weight: 600; line-height: 1.2; letter-spacing: .04em; }
+    .intro { max-width: 38em; color: #665b50; font-size: 17px; line-height: 1.9; }
+    .rule { height: 1px; margin: 40px 0; background: #d8c9b6; }
+    .chapters { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 20px; }
+    article { display: flex; flex-direction: column; min-height: 300px; padding: 28px; border: 1px solid #d8c9b6; background: #fffdf9; box-shadow: 0 12px 32px #402d1610; }
+    .tag { margin: 0 0 30px; color: #9a6b42; font: 600 12px/1.5 system-ui, sans-serif; letter-spacing: .12em; }
+    h2 { margin: 0 0 12px; font-size: 27px; font-weight: 600; line-height: 1.4; }
+    article p:not(.tag) { margin: 0; color: #665b50; font-size: 15px; line-height: 1.8; }
+    article a { align-self: flex-start; margin-top: auto; padding-top: 30px; color: #704322; font: 600 15px/1.5 system-ui, sans-serif; text-decoration-thickness: 1px; text-underline-offset: 5px; }
+    article a:hover, article a:focus-visible { color: #a34e22; }
+    footer { margin-top: 42px; color: #766b60; font: 13px/1.8 system-ui, sans-serif; }
+    footer a { color: inherit; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="eyebrow">RUWEN WRITING SYSTEM / 阅读入口</div>
+    <h1>小说样式章</h1>
+    <p class="intro">两篇独立的写作样章，点击后可直接在浏览器中阅读 PDF。它们用于展示文本风格与章节呈现，并不代表同一部小说的连续章节。</p>
+    <div class="rule"></div>
+    <section class="chapters" aria-label="样式章节">
+      <article>
+        <p class="tag">东方战国 · 28 页</p>
+        <h2>第五十五章 · 寨中七日</h2>
+        <p>裴景行版。以寨中七日的生活与局势推进为中心的样式章。</p>
+        <a href="portfolio/artifacts/dongfang-zhanguo-chapter-55-style.pdf">阅读这一章 PDF ↗</a>
+      </article>
+      <article>
+        <p class="tag">问锋台 · 14 页</p>
+        <h2>问锋台</h2>
+        <p>以擂台交锋为核心的玄幻样式章。</p>
+        <a href="portfolio/artifacts/wenfengtai-fantasy-style-chapter.pdf">阅读这一章 PDF ↗</a>
+      </article>
+    </section>
+    <footer>项目与创作材料见 <a href="https://github.com/hunterhigh/ruwen-writing-system">如文公开仓库</a>。</footer>
+  </main>
+</body>
+</html>

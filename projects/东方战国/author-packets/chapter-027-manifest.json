@@ -1,0 +1,42 @@
+{
+  "chapter": 27,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-026.md",
+    "tail_characters": 5000
+  },
+  "situation_seed_path": "situation-seeds/chapter-027-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md",
+    "author-voice/relationship-lenses/饶景行与陶杏.md"
+  ],
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-026.md",
+      "text": "饶景行被罗翁以竹端制住咽喉后，开始准确重画败于孙宗弼的泥泞田埂；怨气暂时收束而未消失。",
+      "activation": "罗翁恢复寡言，训练退到日常背景；本章不再复盘战斗。"
+    },
+    {
+      "source": "chapters/chapter-008.md; chapters/chapter-009.md",
+      "text": "七叔掌握追踪与山中细节；饶景行能射杀可见猎物并已试成烟肉，谢馆取馆份并提供盐。",
+      "activation": "猎猪只写归来、结果和冬肉生活，不重复猎杀与加工流程。"
+    },
+    {
+      "source": "characters/taoxing.md",
+      "text": "陶杏晒黑、眼大、缺牙、红绳、补衣、淘气、馋嘴，也能守住别人份额。",
+      "activation": "让她守肉失败、偷食、参与扫庙和米果劳动，并留下具体食物给饶景行。"
+    },
+    {
+      "source": "proposals/09-chapter-025-028-winter-return-and-settlement-v1.0.md",
+      "text": "第二十七章以山村入冬、石梁冬装阶级差异、地方米食与行山公祭俗松开战争冷色；不提前写第二十八章的人生接纳。",
+      "activation": "结尾只落在村人留份与米果熊，不进入生日、回归无望或终身规划。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第二十七章《山村入冬》，非空白字符至少10000。轻松温暖，以合村制作黄元米果和行山公冬祭为生活中心；石梁冬装只通过同一场寒冷在不同衣物上的落点呈现。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

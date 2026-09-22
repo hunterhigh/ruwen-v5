@@ -1,0 +1,53 @@
+{
+  "chapter": 2,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-001.md",
+    "tail_characters": 2600
+  },
+  "situation_seed_path": "situation-seeds/chapter-002-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "continuity-ledger.md#第一章批准后状态",
+      "text": "第一章结束于傍晚。饶景行穿补过的灰白短衣、深褐长裤和绑腿，一脚剪开的草鞋、一脚包布；携带遮住折角纹的长刀、缺口短刀、裂纹短枪、不到半囊水、两块饭团、剩余咸菜、火具、十几枚方孔铜钱和两粒疑似碎银。",
+      "activation": "这些衣物、武器、食水和身份痕迹决定守庙人怎样看他、他能拿什么交换、必须把武器放在哪里，以及夜间还能否继续行走。"
+    },
+    {
+      "source": "continuity-ledger.md#第一章批准后状态",
+      "text": "饶景行右膝擦伤、足底有细口和赤足磨损，热量与水分仍不足；第一次杀人的内疚会被血衣、刀、手部触感、进食和陌生人恐惧重新触发。",
+      "activation": "身体残留限制劳动和姿势；老人或村人对他的退缩会使他想起败兵的恐惧并改变接近方式。"
+    },
+    {
+      "source": "characters/protagonist.md#已确定",
+      "text": "饶景行毕业于联邦大学系统工程专业，进入三木集团总部管培序列，在制造、供应链和新业务岗位轮岗；他通过观察工序、提前准备和承担具体工作取得位置。",
+      "activation": "当他看见庙中工具、排水或别人怎样劳动时，具体轮岗记忆可以短暂回返，帮助他选择一件无需语言也能被理解的工作。"
+    },
+    {
+      "source": "characters/protagonist.md#已确定",
+      "text": "他知道三木集团参与军工，自愿保密参加军民两用人体强化实验，希望进入产品过程并在新事业部门参与量产与业务拓展。",
+      "activation": "只有当老人触摸、检查或试探其异常身体时，这段选择才会以观察室、招募说明或产品讨论中的具体记忆出现。"
+    },
+    {
+      "source": "world/02-opening-canon.md#第二章：山中小庙",
+      "text": "饶景行不会本地语言；庙中有一名修行深厚但无稳定法术的高人。高人的姓名、宗教、旧职、专长和未来关系均未决定。",
+      "activation": "双方必须依靠重复动作、物品与距离互动；老人只能看出身体和行为异常，不能识破异世界或科技改造。"
+    },
+    {
+      "source": "world/02-opening-canon.md#三、开局身份状态",
+      "text": "第二章结束时，饶景行最多获得临时栖身、基础物资和被少数人容忍的资格；仍无正式本地姓名记录、可信来历、完整语言、武士身份、领地、家臣或稳定收入。",
+      "activation": "老人给出的任何许可必须狭窄、可撤回，并通过具体食宿与武器处置表现，不能提前成为师徒或稳定归属。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "现代履历只由眼前工具、劳动或身体检查触发；不得把小庙写成公司部门，不得用平台、流程或绩效等抽象职场语言代替人与人的试探。语言只建立少量声音—事物—动作对应，政治、师徒与长期关系均不在本章解决。",
+      "source": "docs/superpowers/specs/2026-08-10-rao-background-and-chapter-002-design.md"
+    }
+  ],
+  "maximum_context_characters": 18000
+}

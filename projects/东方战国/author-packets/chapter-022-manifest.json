@@ -1,0 +1,52 @@
+{
+  "chapter": 22,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-021.md",
+    "tail_characters": 4200
+  },
+  "situation_seed_path": "situation-seeds/chapter-022-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与程介.md"
+  ],
+  "scene_mode_path": "author-voice/scene-modes/战场与本阵.md",
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-021.md",
+      "text": "第一座外栅失守后，饶景行整日处置伤员、抬运活人并见过沈砺七人夺侧门；他没有杀人或得到战功，陶顺失去右手三指，陆槐枪卒一人失踪，沈砺一死两伤且本人腿、肩、肋受伤。饶景行和沈砺只短暂对视，仍不相识。",
+      "activation": "数日后的身体与心理须带着上一战余波，但不得重复上一章洗血、点名和首功场面；沈砺即使出现也只能在远处从事自己的任务。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "联军进入南雄盆地北部。红土丘陵、收割后水田、浈水上游支流、竹林、田埂和驿道把八千人割成相邻战区；骑马者可沿硬地支援，但这里不是适合大队重骑展开的平原。",
+      "activation": "地形必须持续决定饶景行能看见什么、车如何通过、队伍怎样展开以及雨后哪些道路会失效。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "白日会战中孙氏在两道红土丘陵和水田间阻滞，顾、黎两家承担主要正面，钟、赖、温诸军分居相邻道路和低丘；孙氏失去局部田埂与侧丘后有序后撤。饶景行只做役夫工作，始终不接敌。",
+      "activation": "战争只能由役夫位置获得不完整视野；不得让主角掌握上层全局、临时受赐刀或参加白日交锋。"
+    },
+    {
+      "source": "world/04-fushan-combat-system.md",
+      "text": "饶景行只从罗翁处学过表面零散的单手负山架及躲避、回刀挡线和立即反击，核心依靠异常力量、敏捷和速度；他没有完整刀法、实战经验、多人长枪应对或武士身份。",
+      "activation": "他可以从远处动作中产生具体代入和错误自信，却不得由此正确推导自己已经会作战。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "会战后诸家沿丘陵、田埂、竹林和驿道分散扎营。骤雨压低能见度、冲灭火堆、灌沟、压棚并破坏旗号；敌军利用熟路突入后营。联军临时以白色生皮或浅色皮条识别友军。",
+      "activation": "天气由疲惫后的生活条件逐渐变成秩序崩坏；饶景行只能在袭击实际进入自己营区后得知敌袭和白皮办法。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "雨袭接敌前，饶景行从倒地友方低阶武士身边拾得一柄有主人标记、无鞘、已有旧磨损的普通长刀，只为应对进入后营的敌人，不是受赐。",
+      "activation": "章末可使兵器进入手中，但不提前书写杀敌结果，也不能让拾刀成为身份承认。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第二十二章《盆地无功》，非空白字符至少10000，超出不缩减。白日会战中饶景行始终是役夫且没有接敌；让其通过具体可见失误逐步产生自己若有刀便能胜任的错误自信。后半写会战后分散扎营与骤雨袭营，章末停在一名孙氏普通足轻持短枪掀开半塌草棚、饶景行横刀负于脑后准备应对，不能提前写出第一名死者。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

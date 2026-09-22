@@ -1,0 +1,53 @@
+{
+  "chapter": 24,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-023.md",
+    "tail_characters": 5000
+  },
+  "situation_seed_path": "situation-seeds/chapter-024-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与樊岳.md",
+    "author-voice/relationship-lenses/饶景行与程介.md"
+  ],
+  "scene_mode_path": "author-voice/scene-modes/战场与本阵.md",
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-023.md",
+      "text": "同一场暴雨夜，联军已经围绕各家旗、车辆和小队恢复局部秩序，孙氏与部落军开始沿南边村路撤退。饶景行杀死五名普通敌人，但只有后三次有可靠见证；他左上臂受浅枪伤、极度饥饿，擅自离开谢馆车位追击。",
+      "activation": "开篇不跳时；兴奋、饥饿、伤痛和擅离差遣共同影响他选择更有身份的敌人，战后只有三次杀敌能够进入核验。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "孙宗弼三十五岁上下，身形瘦长，右颊旧疤斜向耳边；旧黑漆胴甲系褐红绳，右肩甲略新，缺口铜环前立，长刀维护良好。他并非名将，只是经历过多次撤退与小规模战斗的孙氏旁支家臣。",
+      "activation": "饶景行交手前只能从甲、刀、疤痕和动作判断其为有经验武士，不知道姓名履历；姓名可在其死后由识得者说出。"
+    },
+    {
+      "source": "world/04-fushan-combat-system.md",
+      "text": "饶景行以单手负山架主动进攻，力量和长加速弧极强；防守依靠敏捷移线、快速回刀和左手推抓。其真实持刃经验、控力、刃筋、湿地步法、连续收刀与对阵长枪多人仍然不足。",
+      "activation": "孙宗弼不硬接刀，以小步、刀尖、退路、泥地、断枪和高差诱使全力落空；饶景行速度足以避开重伤，却无法夺回主动。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "孙宗弼最终使饶景行面朝下扑入泥水、长刀脱手、白皮歪到眼侧，并在右大腿外侧留浅伤阻止追赶，随后立刻撤退，不割首。饶景行没有故意输，也没有先伤到孙宗弼。",
+      "activation": "这是一次公开、完整的技术与经验失败；附近有限目击者可粗野取笑，但战场不会停下来围观。"
+    },
+    {
+      "source": "characters/fanyue.md",
+      "text": "樊岳胸背宽厚，鼻梁旧折向右，左耳缺一小角，左肩至背部有旧伤；本次穿黑漆骑胴与肩甲，骑深褐山马，持长枪。他在姜馆角抵时感受过饶景行故意保护其落地，双方没有私人仇怨，也没有公开和解。",
+      "activation": "樊岳从斜后硬埂不停马追上，以马速、枪长和角度一枪讨取刚离开饶景行的孙宗弼；看见泥中主角只留下粗粝一句，不安慰、不指导。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "战后正式记三名普通足轻战功，赏钱约可支持饶景行个人两至三个月普通口粮，明显低于此前杀熊护人所得。三道护手浅痕的旧刀须归还原属馆；谢垣斥其擅离，程介既作证也不遮掩，谢岱领受本馆功劳却仍将他列为役夫。",
+      "activation": "通过抬伤亡、认领兵器、证言争执、领钱和重新差遣自然呈现，不写成制度说明或清单；章末让身份回落到真实劳役。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第二十四章《杀熊人的败相》，非空白字符至少10000，超出不缩减。从上一章同一息接续。孙宗弼必须在力量速度不如主角的情况下，以经验、地形与节奏完整击败且轻伤主角，随后由樊岳骑马持枪独立讨取。战后只核验三名普通足轻并给有限赏钱，主角受斥、归还旧刀、仍为谢馆役夫。避免战斗账本、验功账本、即时悟道、身份跃升与导师关系。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

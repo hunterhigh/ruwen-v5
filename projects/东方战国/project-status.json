@@ -1,0 +1,485 @@
+{
+  "schema_version": 1,
+  "canon_baseline": {
+    "through_chapter": 0,
+    "source": "2026-08-10 migrated project archive; no formal approved chapters existed"
+  },
+  "last_explicitly_approved_chapter": 28,
+  "approvals": [
+    {
+      "chapter": 1,
+      "approved_at_utc": "2026-08-10T08:41:50.181548+00:00",
+      "approval_quote": "改完之后批准1写2；确认",
+      "approval_source": "当前 Codex 任务：用户要求改完第一章后批准并写第二章，随后确认设计并复核开始",
+      "draft_path": "drafts/chapter-001-draft.md",
+      "draft_sha256": "90ee2cda7119074394df38304834c8acdeb509483c737798eb2132bfb20ac942",
+      "target_path": "chapters/chapter-001.md",
+      "revision": false
+    },
+    {
+      "chapter": 2,
+      "approved_at_utc": "2026-08-10T09:09:49.799314+00:00",
+      "approval_quote": "批准2写3 主角开始学习语言 开始逐步适应生活 了解这个世界，标准目前改为一万字至少 但是多于不用缩小 七千字的状态下节奏过于紧凑",
+      "approval_source": "Codex task user message, 2026-08-10",
+      "draft_path": "drafts/chapter-002-draft.md",
+      "draft_sha256": "4f2ce2d8d02b5503cee4e110f70f1dfd7ee396d9e07ed2c47c9bdf5c7275cb26",
+      "target_path": "chapters/chapter-002.md",
+      "revision": false
+    },
+    {
+      "chapter": 3,
+      "approved_at_utc": "2026-08-10T09:49:44.341889+00:00",
+      "approval_quote": "批准3写4 刻画城市 小镇 继续展开主角在哪里 哪个势力范围。主角还有机会拿到了书籍可以学习。他也逐渐意识到这种语言类似自己父母提及的，地球时代的家族方言。于是学习速度更加快。主角会主动希望解决食物问题，他绝对去抓兔子或者想办法抓鱼。",
+      "approval_source": "Codex task user message, 2026-08-10",
+      "draft_path": "drafts/chapter-003-draft.md",
+      "draft_sha256": "49d56e42b2608ecb1039b928c327b99b53bc68e94d5a3136626d9668b8893f1c",
+      "target_path": "chapters/chapter-003.md",
+      "revision": false
+    },
+    {
+      "chapter": 4,
+      "approved_at_utc": "2026-08-10T10:16:36.031437+00:00",
+      "approval_quote": "批准4写5 这次开始主角要逐渐要和老头对话，名字要逐渐掌握，他仍然不清楚老人的来历，只是也适应了庙里的生活，他尝试自己抓鱼，也尝试着修补庙的建筑，承担更多的工作。也是轻松但是对这里更加了解的章节。",
+      "approval_source": "Codex task user message, 2026-08-10",
+      "draft_path": "drafts/chapter-004-draft.md",
+      "draft_sha256": "89470ef5a57a5ffc272c05f75ebceb69fcf73b7ada3d3f253547d4f2b3191797",
+      "target_path": "chapters/chapter-004.md",
+      "revision": false
+    },
+    {
+      "chapter": 5,
+      "approved_at_utc": "2026-08-10T10:41:19.152363+00:00",
+      "approval_quote": "将这些章节内容都打包起来 批准5",
+      "approval_source": "Codex task user message, 2026-08-10",
+      "draft_path": "drafts/chapter-005-draft.md",
+      "draft_sha256": "9b21f503549633a04d3fc0f1d887161d1a603e46aae91169936c4597f808d13a",
+      "target_path": "chapters/chapter-005.md",
+      "revision": false
+    },
+    {
+      "chapter": 6,
+      "approved_at_utc": "2026-08-11T04:14:35.852041+00:00",
+      "approval_quote": "批准6写7",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-006-draft.md",
+      "draft_sha256": "24639205c912401d55e0ec6eec5e354530bb29ecdbb40973e6d83c9179c213b9",
+      "target_path": "chapters/chapter-006.md",
+      "revision": false
+    },
+    {
+      "chapter": 7,
+      "approved_at_utc": "2026-08-11T04:30:20.921511+00:00",
+      "approval_quote": "批准7写8",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-007-draft.md",
+      "draft_sha256": "d19a060191069b4129ca2248d29f118d75bb27d3883e0060b0377c87e6479bb9",
+      "target_path": "chapters/chapter-007.md",
+      "revision": false
+    },
+    {
+      "chapter": 7,
+      "approved_at_utc": "2026-08-11T05:23:25.375090+00:00",
+      "approval_quote": "出现元叙事穿帮 修改",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-007-draft.md",
+      "draft_sha256": "568a94c7e30191cb5a6ee5cb4874590533d9fa6d97762e054130755ce67dd9e1",
+      "target_path": "chapters/chapter-007.md",
+      "revision": true
+    },
+    {
+      "chapter": 8,
+      "approved_at_utc": "2026-08-11T05:23:25.543543+00:00",
+      "approval_quote": "批准8写9",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-008-draft.md",
+      "draft_sha256": "287a571e4508de2f6db11c03988f94da75f3d29fcf65fe65ea06666e4b449832",
+      "target_path": "chapters/chapter-008.md",
+      "revision": false
+    },
+    {
+      "chapter": 8,
+      "approved_at_utc": "2026-08-11T05:29:13.158187+00:00",
+      "approval_quote": "一棵倒松横在半腰 这个区域应该是没有松树的",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-008-draft.md",
+      "draft_sha256": "3fe9695c1e9567dcfdc57497c0858232abf8be871b50b8e78ce415c2bc256381",
+      "target_path": "chapters/chapter-008.md",
+      "revision": true
+    },
+    {
+      "chapter": 9,
+      "approved_at_utc": "2026-08-11T05:54:46.940949+00:00",
+      "approval_quote": "批准9写10",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-009-draft.md",
+      "draft_sha256": "f9129e2a0b955012a2d3bcca717cef91d8f48e952d575f417dfe71ec93eb2bc0",
+      "target_path": "chapters/chapter-009.md",
+      "revision": false
+    },
+    {
+      "chapter": 9,
+      "approved_at_utc": "2026-08-11T06:25:40.365799+00:00",
+      "approval_quote": "批准9写10",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-009-revision-draft.md",
+      "draft_sha256": "7c47f97cddeedc536b34fe71cfc6ae615e1e1a9adbcbd3108e3958115d63ae43",
+      "target_path": "chapters/chapter-009.md",
+      "revision": true
+    },
+    {
+      "chapter": 9,
+      "approved_at_utc": "2026-08-11T06:28:10.339195+00:00",
+      "approval_quote": "这里穿帮了 怎么可能对方会知道这些事情？",
+      "approval_source": "Codex 当前任务用户纠错，2026-08-11",
+      "draft_path": "drafts/chapter-009-revision-draft.md",
+      "draft_sha256": "c9efb81acb6ee7beca64dda4b42e871bf1c3b8f58455d632ea3fcc880e0d702a",
+      "target_path": "chapters/chapter-009.md",
+      "revision": true
+    },
+    {
+      "chapter": 10,
+      "approved_at_utc": "2026-08-11T07:32:30.122345+00:00",
+      "approval_quote": "批准10开始写11",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-010-rewrite-draft.md",
+      "draft_sha256": "d72ebbf90ee596b438dbc30837dcd3cbfef5d879404cd2afe61629c907537965",
+      "target_path": "chapters/chapter-010.md",
+      "revision": false
+    },
+    {
+      "chapter": 11,
+      "approved_at_utc": "2026-08-11T07:51:55.988947+00:00",
+      "approval_quote": "批准11写12",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-011-draft.md",
+      "draft_sha256": "988c697412fca00369b2fade8d1bebb12ec1b5e24f3c55dfcd9418149d87b7bb",
+      "target_path": "chapters/chapter-011.md",
+      "revision": false
+    },
+    {
+      "chapter": 11,
+      "approved_at_utc": "2026-08-11T08:27:47.768229+00:00",
+      "approval_quote": "又出现穿帮",
+      "approval_source": "Codex 当前任务用户纠错，2026-08-11",
+      "draft_path": "drafts/chapter-011-draft.md",
+      "draft_sha256": "88ae93cf7f3833178475991dc050f9f70d60a4d23986b749fa6946431fadf9e3",
+      "target_path": "chapters/chapter-011.md",
+      "revision": true
+    },
+    {
+      "chapter": 12,
+      "approved_at_utc": "2026-08-11T08:29:57.666069+00:00",
+      "approval_quote": "批准12写13",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-012-draft.md",
+      "draft_sha256": "b7a930a4d1d3994ae50eb27772aab2dfb74cc575697064c9ffd393693ff9060a",
+      "target_path": "chapters/chapter-012.md",
+      "revision": false
+    },
+    {
+      "chapter": 13,
+      "approved_at_utc": "2026-08-11T08:55:52.502694+00:00",
+      "approval_quote": "批准13写14",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-013-draft.md",
+      "draft_sha256": "dc225052dce2a06f731caa01a0f8c62c621765c685f38a658ed95d705e54f52c",
+      "target_path": "chapters/chapter-013.md",
+      "revision": false
+    },
+    {
+      "chapter": 14,
+      "approved_at_utc": "2026-08-11T09:28:21.832554+00:00",
+      "approval_quote": "批准14",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-014-draft.md",
+      "draft_sha256": "6a3e8ab7f8ca6c72d51882afb7c2e228475adf28035975516655c73a963ade56",
+      "target_path": "chapters/chapter-014.md",
+      "revision": false
+    },
+    {
+      "chapter": 15,
+      "approved_at_utc": "2026-08-11T10:15:06.834744+00:00",
+      "approval_quote": "批准15写16",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-015-draft.md",
+      "draft_sha256": "348c8d80236e2687ff40a5e47213185f9e4a8602fa54a3d0773bf2fa7c3a4c8c",
+      "target_path": "chapters/chapter-015.md",
+      "revision": false
+    },
+    {
+      "chapter": 15,
+      "approved_at_utc": "2026-08-11T10:32:30.629327+00:00",
+      "approval_quote": "话一出口，第一章山溪边那张临死的脸忽然从记忆里闪过。饶景行的胃紧了一下。他没有继续说。 这里穿帮了",
+      "approval_source": "Codex 当前任务用户纠错，2026-08-11",
+      "draft_path": "drafts/chapter-015-draft.md",
+      "draft_sha256": "d9c0774b21056519be3de42932ba8e927600d4274967dd79779e2d279e070552",
+      "target_path": "chapters/chapter-015.md",
+      "revision": true
+    },
+    {
+      "chapter": 16,
+      "approved_at_utc": "2026-08-11T10:38:47.061451+00:00",
+      "approval_quote": "批准16写17",
+      "approval_source": "Codex 当前任务用户消息，2026-08-11",
+      "draft_path": "drafts/chapter-016-draft.md",
+      "draft_sha256": "c7f93fa3f81945d3a9bc8323e8fdc743b304f475001aac2997ca6fa58c1b4133",
+      "target_path": "chapters/chapter-016.md",
+      "revision": false
+    },
+    {
+      "chapter": 17,
+      "approved_at_utc": "2026-08-12T02:28:55.302658+00:00",
+      "approval_quote": "批准",
+      "approval_source": "Codex 当前任务用户消息，2026-08-12；批准第十七章进入正典",
+      "draft_path": "drafts/chapter-017-draft.md",
+      "draft_sha256": "e5d166a6119634813d9c9eba7c1ef922055cd147490c222a09f9e29761d5fa58",
+      "target_path": "chapters/chapter-017.md",
+      "revision": false
+    },
+    {
+      "chapter": 18,
+      "approved_at_utc": "2026-08-12T03:20:02.976618+00:00",
+      "approval_quote": "批准18写19",
+      "approval_source": "Codex 当前任务用户消息，2026-08-12",
+      "draft_path": "drafts/chapter-018-draft.md",
+      "draft_sha256": "881ed247d92caf9667ffc7ef3ca4b9d37dcaded608935fa6df833ae2c01780e4",
+      "target_path": "chapters/chapter-018.md",
+      "revision": false
+    },
+    {
+      "chapter": 19,
+      "approved_at_utc": "2026-08-12T03:36:49.939506+00:00",
+      "approval_quote": "批准19写20",
+      "approval_source": "Codex 当前任务用户消息，2026-08-12",
+      "draft_path": "drafts/chapter-019-draft.md",
+      "draft_sha256": "f9516d7755cb26f081cf3562209c88498e829db72fdb8f4544fa77ac7cc97e77",
+      "target_path": "chapters/chapter-019.md",
+      "revision": false
+    },
+    {
+      "chapter": 20,
+      "approved_at_utc": "2026-08-12T03:50:03.898476+00:00",
+      "approval_quote": "批准20写21",
+      "approval_source": "Codex 当前任务用户消息，2026-08-12",
+      "draft_path": "drafts/chapter-020-draft.md",
+      "draft_sha256": "b54f31b5b5d940cd726a68437f2bfc82447eec54e62925f654842234f1d08ace",
+      "target_path": "chapters/chapter-020.md",
+      "revision": false
+    },
+    {
+      "chapter": 21,
+      "approved_at_utc": "2026-08-12T05:02:43.184495+00:00",
+      "approval_quote": "批准",
+      "approval_source": "Codex 当前任务用户消息，2026-08-12；确认保留第二十一章并将新剧情顺延为第二十二至第二十六章",
+      "draft_path": "drafts/chapter-021-draft.md",
+      "draft_sha256": "a5e2b1ad1cbc1ea990c99e31fef096048214af0c1ab0dcea9032350c5519386a",
+      "target_path": "chapters/chapter-021.md",
+      "revision": false
+    },
+    {
+      "chapter": 22,
+      "approved_at_utc": "2026-08-12T07:08:08.527316+00:00",
+      "approval_quote": "批准22写23",
+      "approval_source": "Codex 当前任务用户消息，2026-08-12",
+      "draft_path": "drafts/chapter-022-draft.md",
+      "draft_sha256": "c574850ca884f60bcb50fceb47ac7931d471153bd35cafcda2f4866bc2c06b0b",
+      "target_path": "chapters/chapter-022.md",
+      "revision": false
+    },
+    {
+      "chapter": 23,
+      "approved_at_utc": "2026-08-12T10:00:39.560108+00:00",
+      "approval_quote": "批准23写24",
+      "approval_source": "Codex 当前任务用户消息，2026-08-12",
+      "draft_path": "drafts/chapter-023-draft.md",
+      "draft_sha256": "ff552cf8c98c7c971ad4f3663145be69248340d6b175b7991043eb390eb40e73",
+      "target_path": "chapters/chapter-023.md",
+      "revision": false
+    },
+    {
+      "chapter": 23,
+      "approved_at_utc": "2026-08-13T02:38:31.522392+00:00",
+      "approval_quote": "直接修改23，24的打戏情节。",
+      "approval_source": "Codex当前任务用户消息，2026-08-13；明确要求重写第23、24章打戏并移除战功见证核算重心",
+      "draft_path": "drafts/chapter-023-revision-draft.md",
+      "draft_sha256": "a020544dfe5ff8c39c9f02160f392fb6e7c754cbf6099990eb66add782bca3fb",
+      "target_path": "chapters/chapter-023.md",
+      "revision": true
+    },
+    {
+      "chapter": 23,
+      "approved_at_utc": "2026-08-13T02:39:58.955945+00:00",
+      "approval_quote": "直接修改23，24的打戏情节。",
+      "approval_source": "Codex当前任务用户消息，2026-08-13；第23章动作清晰度复核后的最终修订",
+      "draft_path": "drafts/chapter-023-revision-draft.md",
+      "draft_sha256": "a020544dfe5ff8c39c9f02160f392fb6e7c754cbf6099990eb66add782bca3fb",
+      "target_path": "chapters/chapter-023.md",
+      "revision": true
+    },
+    {
+      "chapter": 24,
+      "approved_at_utc": "2026-08-13T03:36:58.677518+00:00",
+      "approval_quote": "批准24 从25开始写 可以延续一个章节",
+      "approval_source": "当前 Codex 任务用户消息，2026-08-13；明确批准第24章进入正典",
+      "draft_path": "drafts/chapter-024-draft.md",
+      "draft_sha256": "19d378dd4ff582f9255f273ddd16b1c51fc9eb0f99948ced477f0f2b2b492661",
+      "target_path": "chapters/chapter-024.md",
+      "revision": false
+    },
+    {
+      "chapter": 25,
+      "approved_at_utc": "2026-08-13T05:14:37.271299+00:00",
+      "approval_quote": "批准25写26",
+      "approval_source": "当前 Codex 任务用户消息，2026-08-13；用户明确批准第25章并要求写第26章",
+      "draft_path": "drafts/chapter-025-draft.md",
+      "draft_sha256": "dff643d1e5ca0144d82865108f78310209178a94a188fa96e86a7a5750295a5a",
+      "target_path": "chapters/chapter-025.md",
+      "revision": false
+    },
+    {
+      "chapter": 26,
+      "approved_at_utc": "2026-08-13T06:50:09.526830+00:00",
+      "approval_quote": "批准26写27",
+      "approval_source": "当前 Codex 任务用户消息，2026-08-13；用户明确批准第26章并要求写第27章",
+      "draft_path": "drafts/chapter-026-draft.md",
+      "draft_sha256": "25ff11b012d47de938d19d30d074edf9e61e1948d980931cb8e5a6fb896a7454",
+      "target_path": "chapters/chapter-026.md",
+      "revision": false
+    },
+    {
+      "chapter": 27,
+      "approved_at_utc": "2026-08-13T07:09:52.070693+00:00",
+      "approval_quote": "批准27写28",
+      "approval_source": "当前 Codex 任务用户消息，2026-08-13；用户明确批准第27章并要求写第28章",
+      "draft_path": "drafts/chapter-027-draft.md",
+      "draft_sha256": "137e7ac316a0f91eded5bab4aad7472f1e444a91f56262701cdb0a935889472d",
+      "target_path": "chapters/chapter-027.md",
+      "revision": false
+    },
+    {
+      "chapter": 28,
+      "approved_at_utc": "2026-08-13T10:02:35.529588+00:00",
+      "approval_quote": "批准28",
+      "approval_source": "当前 Codex 任务用户消息，2026-08-13；用户明确批准第28章并要求设计后续章节",
+      "draft_path": "drafts/chapter-028-draft.md",
+      "draft_sha256": "a98e4a1d92aef907d7226208a1121e6f4daa62c67f1aaabdb341423dfa53bdaa",
+      "target_path": "chapters/chapter-028.md",
+      "revision": false
+    }
+  ],
+  "workingTitle": "东方战国",
+  "titleStatus": "provisional",
+  "phase": "drafting",
+  "approvalMode": "layer-by-layer",
+  "approvedLayers": [
+    {
+      "id": "approved-foundations",
+      "canonIndex": "world/01-approved-foundations.md",
+      "approvedOn": "2026-08-09",
+      "approval": "用户明确表示目前内容可以批准，并补充家族主色、个人铠甲风格、家徽、本阵与黑泽明式战场视觉"
+    },
+    {
+      "id": "gannan-opening",
+      "canonIndex": "world/02-opening-canon.md",
+      "approvedOn": "2026-08-10",
+      "approval": "用户明确指定主角降落赣南；最初三段内容随后合并为前两章：第一章为赤身求生、战场观察与财产取得，第二章为山庙哑巴式交流和劳动请求收留"
+    },
+    {
+      "id": "protagonist-rao-jingxing",
+      "canonIndex": "characters/protagonist.md",
+      "approvedOn": "2026-08-10",
+      "approval": "用户确认主角名为饶景行，并批准其教育与职业层次、学习钻研、自律、事业心、精英主义、艺术爱好、人际短板、杀人心理边界和微生物伏笔"
+    },
+    {
+      "id": "protagonist-modern-career",
+      "canonIndex": "characters/protagonist.md",
+      "approvedOn": "2026-08-10",
+      "approval": "用户确认联邦大学系统工程专业、三木集团总部管培、知情自愿参加军民两用人体强化实验，以及进入新产品部门参与产品过程和业务拓展的动机"
+    },
+    {
+      "id": "tao-xing-character",
+      "canonIndex": "characters/taoxing.md",
+      "approvedOn": "2026-08-11",
+      "approval": "用户确认前五章女孩名为陶杏，并批准其晒黑蜜褐肤色、大黑眼睛、酒窝、缺牙、双丫髻红绳、村童衣着与淘气可爱性格"
+    },
+    {
+      "id": "warrior-household-etiquette",
+      "canonIndex": "world/03-warrior-household-etiquette.md",
+      "approvedOn": "2026-08-11",
+      "approval": "用户确认武士社交永久采用日本战国宅邸、佩刀、跪坐、宴饮、姬君与围猎礼仪，并要求围猎具有黑泽明式电影气质"
+    },
+    {
+      "id": "gu-tang-character",
+      "canonIndex": "characters/gutang.md",
+      "approvedOn": "2026-08-11",
+      "approval": "用户确认顾棠采用秋瓷般娇贵外貌，完全脱离生产且弱不禁风；她不参加围猎，只陪同兄长赏秋野餐"
+    },
+    {
+      "id": "chapters-015-017-return-protection-training",
+      "canonIndex": "proposals/06-chapter-015-017-return-protection-training-v1.0.md",
+      "approvedOn": "2026-08-11",
+      "approval": "用户选择三章方案并授权不再等待二次批准，直接将归庙创伤、行山公庇护、身体测试、负山初习与军役召见写入大纲"
+    },
+    {
+      "id": "fushan-combat-system",
+      "canonIndex": "world/04-fushan-combat-system.md",
+      "approvedOn": "2026-08-11",
+      "approval": "用户确认负山架为单手横刀脑后、另一手自然垂下；进攻靠力量、防守靠敏捷、防守反击靠速度，持旗仅为可能用途"
+    },
+    {
+      "id": "chapters-018-021-gannan-campaign",
+      "canonIndex": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "approvedOn": "2026-08-12",
+      "approval": "用户批准赣南联军南征篇四章设计：八千联军、顾氏三千、赣南诸家均衡、梅岭敌盟、山口夺栅、沈砺初次武勇展示、历史传闻系统及饶景行作为非战斗随军人员旁观首战的心理历程"
+    },
+    {
+      "id": "chapters-025-028-winter-return-and-settlement",
+      "canonIndex": "proposals/09-chapter-025-028-winter-return-and-settlement-v1.0.md",
+      "approvedOn": "2026-08-13",
+      "approval": "用户批准四章方案，明确第二十五、二十六章合并；樊岳携此前合战战功归去，雨袭后不再新增大规模交锋，并要求直接进入第二十五章创作。"
+    },
+    {
+      "id": "chapters-029-031-mountain-transmission",
+      "canonIndex": "proposals/10-chapter-029-031-mountain-transmission-v1.0.md",
+      "approvedOn": "2026-08-13",
+      "approval": "用户确认后续约三章方向，并要求补入陶杏、村妇、行山庙与沈砺关系，以木刀断叶等具体小说目标承载修行，直接落成永久设定与章节大纲。"
+    },
+    {
+      "id": "mountain-transmission-temple-guests-tiger-trial",
+      "canonIndex": "world/05-mountain-transmission-temple-guests-and-tiger-trial.md",
+      "approvedOn": "2026-08-13",
+      "approval": "用户要求将罗翁与沈砺旧脉关系、双师传刀、庙村生活、冬虎、垫刀试、旱烟与天下知识边界写为永久设定。"
+    }
+  ],
+  "currentProposals": [
+    "proposals/01-geography-and-political-map-v0.1.md",
+    "proposals/02-seventy-year-history-and-thirty-powers-v0.1.md",
+    "proposals/02a-historical-event-catalog-v0.1.md",
+    "proposals/03-samurai-armies-and-visual-system-v0.1.md",
+    "proposals/04-opening-era-ensemble-v0.1.md",
+    "proposals/05-chapter-011-014-autumn-banquet-arc-v0.1.md",
+    "proposals/06-chapter-015-017-return-protection-training-v1.0.md",
+    "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+    "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+    "proposals/09-chapter-025-028-winter-return-and-settlement-v1.0.md",
+    "proposals/10-chapter-029-031-mountain-transmission-v1.0.md"
+  ],
+  "novel": {
+    "started": true,
+    "language": "中文",
+    "pov": "主角近距离限知",
+    "chapterEnvelope": "硬下限10000字；自然目标约11000—13000字；无硬上限；超过不因长度缩减",
+    "latestApprovedChapter": 28,
+    "draftStatus": "planning-chapters-029-031",
+    "currentDraft": null,
+    "currentDraftVersion": null,
+    "currentDraftSha256": null,
+    "previousDraft": "drafts/chapter-028-draft.md",
+    "currentDraftCharacters": 0,
+    "coldRead": null,
+    "contextIsolation": "single-context-degraded-by-user-request-no-subagents"
+  },
+  "magic": false,
+  "cultivation": false,
+  "lastUpdated": "2026-08-13"
+}

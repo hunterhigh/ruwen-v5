@@ -1,0 +1,52 @@
+{
+  "chapter": 5,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-004.md",
+    "tail_characters": 3500
+  },
+  "situation_seed_path": "situation-seeds/chapter-005-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapter-004 ending",
+      "text": "饶景行已拥有《百物》、半截墨条、破瓦和一枚薄钱；支沟鱼篓可继续使用。长刀、裂纹短枪和厚钱仍由老人收在正屋，缺口短刀只供庙务使用。",
+      "activation": "捕鱼、收纳、修屋和庙中分工必须延续这些具体物件与权限。"
+    },
+    {
+      "source": "user language correction",
+      "text": "第四章后的简单生活对话直接用自然中文呈现。语言学习退到背景，不反复写单词、发音、音变、推演和学习进度；只有真正改变行动的误会才进入正文。",
+      "activation": "饶景行与老人能围绕天气、鱼、屋顶、食物和住处自然交谈，不把每句话拆成语言练习。"
+    },
+    {
+      "source": "user elder-name choice",
+      "text": "守庙老人姓罗，附近村人称罗翁；个人名、来历、旧主、家族和守庙原因仍受保护。",
+      "activation": "村人自然叫出罗翁，饶景行只确认姓氏；追问个人名时老人轻描淡写带开。"
+    },
+    {
+      "source": "chapter-005 approved design",
+      "text": "庙顶有滑瓦与局部腐朽木料。饶景行可以清理、复位旧瓦并对一小段椽木做加固，但没有材料和手艺重修整座庙。雨后修好的睡处与书册区域应保持干燥，别处仍可有小漏。",
+      "activation": "修缮的材料、动作和结果必须有限、可信，并由一次降雨检验。"
+    },
+    {
+      "source": "chapter-005 approved design",
+      "text": "鱼篓收获有多有少，小鱼应放回；部分收获继续与提供材料或许可的人分享。捕鱼是庙中生活的一部分，不是稳定高产的资源系统。",
+      "activation": "数日生活用空篓、小收获、补篓和做饭形成自然起伏。"
+    },
+    {
+      "source": "relationship boundary",
+      "text": "饶景行靠取水、捕鱼、修补、做饭承担固定庙务；罗翁以工具、武器和工作范围维持边界。两人可以谈住多久、从哪里来，但饶景行只说来自很远、暂时回不去，罗翁也不逼问。",
+      "activation": "关系温度来自共同做事和允许彼此保留体面，不写成师徒、家人或身世揭谜。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "这是生活小说场景，不是语言学习记录或维修说明书。章节轻松、具体、有风光与人声；让对白、做工、吃饭、天气自然推动关系。非空白字符至少10000，多于不缩减；不加入战斗、政治急讯、神秘访客或超自然现象。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

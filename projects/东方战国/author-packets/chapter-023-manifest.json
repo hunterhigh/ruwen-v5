@@ -1,0 +1,52 @@
+{
+  "chapter": 23,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-022.md",
+    "tail_characters": 5000
+  },
+  "situation_seed_path": "situation-seeds/chapter-023-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与程介.md"
+  ],
+  "scene_mode_path": "author-voice/scene-modes/战场与本阵.md",
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-022.md",
+      "text": "暴雨已经压塌谢馆半边草棚并遮断旗号；饶景行以白色生皮缚湿发，同程介和谢馆队伍失散。他从倒地友方低阶武士身旁抽出一柄无鞘普通长刀，铜护手有三道浅痕、刃有旧磨损。",
+      "activation": "开篇必须从同一息的短枪刺击接续；旧刀不是赏赐，泥、水、无鞘和辨认友军持续限制动作。"
+    },
+    {
+      "source": "world/04-fushan-combat-system.md",
+      "text": "饶景行的单手负山架主动进攻依靠力量与长加速弧，主动防守依靠小幅移线，来不及躲时可从脑后快速回刀挡线并立即反击；左手可推抓兵器根部。其弱点包括长枪距离、多人不同方向、泥泞、饥饿、视线和真实持刃经验不足。",
+      "activation": "孤立普通足轻可被其力量、敏捷和速度压倒；三名基本协作的长枪足轻必须使他无法进入刀距并造成浅伤和狼狈撤离。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "饶景行当夜杀死五名普通战斗人员。前两名无人可靠见证；第三名孙氏普通足轻由程介与两名役夫看见，第四名持盾孙氏足轻由陆槐及枪卒看见，第五名孙氏普通足轻由石梁备人员看见，沈砺也只短暂看见其古怪架势。",
+      "activation": "每次死亡必须有不同空间、动作和心理后果；见证来自在场者正在做自己的事，不能排队围观或立即结算。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "第二次杀敌为失控横斩，几乎腰断并使旧刀出现明显缺口；其后饶景行呕吐、极度饥饿。第三次救下程介一行，第四次以左手和肩撞翻木盾，第五次以小幅避线和快速回刀完成防守反击。",
+      "activation": "身体优势须带来可怕结果，也须以恶心、饥饿、刀损和控制不足持续付出代价，不能写成爽快连斩。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "三枪小阵并非精锐，只会以第一枪控正面、第二枪等闪避、第三枪封退路和绕侧。饶景行连续躲开却无法近身，左上臂或肩外侧被浅划，踩水或绊绳后摔入泥中，只能钻过倒棚逃走。",
+      "activation": "三人不与其硬拼力量；主角不得反杀、悟出破阵方法或把败退写成主动诱敌。"
+    },
+    {
+      "source": "proposals/08-chapter-022-024-rain-raid-defeat-v1.0.md",
+      "text": "诸家在雨中围本旗、小队和车辆重新聚拢，个人可能逃散，但无整备整馆抛旗离场；敌军未能摧毁本阵，雨弱后开始沿村路撤退。饶景行未经允许加入追击，章末看见缺口铜环前立的孙氏武士掩护足轻过沟。",
+      "activation": "联军止乱只能通过主角逃窜、搬人和找旗时所见的局部动作呈现；章末不交代该武士姓名或胜负。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第二十三章《白皮血雨》，非空白字符至少10000，超出不缩减。完成五次普通敌方战斗人员死亡，前三项正式见证严格对应第三、第四、第五人；随后以三枪小阵造成主角左肩或上臂浅伤和狼狈逃离。赣南联军必须在各家局部旗号与小队中恢复抵抗。章末饶景行擅自追击并主动走向缺口铜环前立的孙氏武士，不提前写交手结果、姓名或正式赏钱。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

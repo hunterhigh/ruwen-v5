@@ -1,0 +1,48 @@
+{
+  "chapter": 16,
+  "latest_approved_prose": {"path": "chapters/chapter-015.md", "tail_characters": 3800},
+  "situation_seed_path": "situation-seeds/chapter-016-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md"
+  ],
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-015.md",
+      "text": "饶景行已在行山庙得到顾氏所赏的一袋本地钱、三匹粗布与一大袋米；大半钱和赏物由罗翁存入正屋。昨夜他向罗翁坦白姜馆受辱，和衣睡在柴房，门边放着换过背带的药篓、短柄药锄与竹杖。",
+      "activation": "第十六章从次日天未亮的庙中准备与入山连续开始；财物已经安全，不必再次清点，昨夜情绪只通过睡眠、身体和两人说话方式残留。"
+    },
+    {
+      "source": "chapters/chapter-015.md",
+      "text": "罗翁确认杀熊、角抵与三猪使饶景行的异常力量无法重新隐藏，并警告只让人害怕杀戮会招来弓枪、点兵与焚庙；他尚未宣布收徒或解释武艺。",
+      "activation": "罗翁带其进入隐祠和测试身体，是对已经被权力看见这一事实的行动回应，不是突然心血来潮或完整身份揭晓。"
+    },
+    {
+      "source": "world/02-opening-canon.md and chapters/chapter-004.md",
+      "text": "行山公是被祭祀的本地历史人物，传说在兵乱与山洪后开路、标泉、识药、引失散者出山；行山庙兼具供水、避雨、轻伤处理和旧路维护功能，没有确认神力。",
+      "activation": "隐祠仪式必须继续围绕清泉、道路、药草与失路者，不能改成真实武神降福或法术强化。"
+    },
+    {
+      "source": "characters/protagonist.md and world/04-fushan-combat-system.md",
+      "text": "饶景行的异常身体包括力量、体能、爆发、敏捷、反应、平衡、关节稳定、制动和恢复，精确上限未知；冷兵器经验与杀人时机并未因身体天赋自动获得。",
+      "activation": "罗翁需要通过重物、长程山行、精细放置、左右换手、突然变化和疲劳后动作逐渐确认组合优势，同时让失衡、饥饿和控制问题真实存在。"
+    },
+    {
+      "source": "world/04-fushan-combat-system.md",
+      "text": "负山架后台暂名：右手单手握持，置于右耳后至后颈外，刀身横过后枕向左后伸，左手自然垂下，左脚略前、右脚略后，以脚、髋、躯干、肩带和手臂依次释放；外观懒散粗野。",
+      "activation": "日暮第一次持竹必须准确呈现单手横负脑后与肩部预扭，不得写成双手高举的传统上段；第一次劈击应同时显出更大力量与落点、制动或平衡问题。"
+    },
+    {
+      "source": "characters/luoweng.md",
+      "text": "罗翁懂刀法、发力、步法、距离与训练，但旧主、家门、传承、真实上限仍受保护；教学少解释、少命名，以真实庙务和改变条件完成。",
+      "activation": "他可以通过站位、摸脉、竹杖干预和精确纠正暴露经验，不能在对话中自述履历、报流派或一次讲清整套负山刀法。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第十六章《山公旧路》，非空白字符至少10000，超出不缩减。罗翁带饶景行到废弃旧路旁的行山公隐祠，以清泉、米盐、药草、姓名和修路完成没有神迹的庇护仪式；随后把力量、静稳、爆发、长程体能、恢复、关节协调、平衡、反应、精细控制与左右差异融入采药修路。罗翁只隐约说明他的力量已被众人看见、日后很可能为主家效力。日暮第一次教竹棍：先观察常见双手劈击，再要求右手单持横负脑后、左手垂下；结束在反复纠正和竹声，不提前进入成熟招架反击。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

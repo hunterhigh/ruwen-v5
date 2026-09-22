@@ -1,0 +1,53 @@
+{
+  "chapter": 7,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-006.md",
+    "tail_characters": 4500
+  },
+  "situation_seed_path": "situation-seeds/chapter-007-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md",
+    "author-voice/relationship-lenses/饶景行与陶杏.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-006.md",
+      "text": "村人已会直接用外号‘饶不饱’叫饶景行做活，知道他守院落和工具边界；较实的饭食使肩背与前臂开始恢复，罗翁以灰旧布放宽了短衣。零散重活仍不能提供稳定粮食。",
+      "activation": "食物不稳定促使饶景行接受猎队的负重条件；猎户听过他的力气和外号，却仍需亲眼判断弓箭与服从。"
+    },
+    {
+      "source": "approved chapter 7 outline",
+      "text": "饶景行没有猎弓，只能借用普通猎弓。第一箭因弓的手感、箭重与放弦方式陌生而明显偏离，数箭后才凭稳定、距离判断和身体控制收紧落点；必须控制力量，不能拉断借弓。",
+      "activation": "试弓首先暴露器物和传统技术的不熟悉，随后才让训练优势出现；箭矢是需要回收和保护的有限物。"
+    },
+    {
+      "source": "approved chapter 7 outline",
+      "text": "追踪、风向、泥塘、蹭树、野猪作息、围堵和撤退路线由本地猎户主导。饶景行会误判旧蹄印并试图走直线；猎户创造近距离射位，他只在成年老公猪侧头或停顿时完成可信要害命中。",
+      "activation": "本章能力反差必须来自他在看不见猎物时频繁需要纠正、在猎物进入清楚视野后突然变得危险。"
+    },
+    {
+      "source": "approved chapter 7 outline and food-safety floor",
+      "text": "成年老公猪的脂肪和肉有明显腥臊；去除污染组织和过多脂肪、流动水浸泡、焯煮、充分长炖、酸果、辛根、香叶与少量米酒只能通过选择瘦肉和加工降低或遮掩气味，不可写成割掉一个腺体便完全解决。野猪肉必须彻底熟透。",
+      "activation": "前两次烹煮要真实失败并消耗柴、盐或酒，最终可接受的锅依赖瘦肉选择、去沫换水、焦香和长时间熟煮。"
+    },
+    {
+      "source": "characters/taoxing.md and approved chapter 7 outline",
+      "text": "陶杏仍是蜜褐肤色、大黑眼睛、缺牙、双丫髻红绳和补丁短衣的七八岁村童。她会怕整头血污猎物，却在肉洗净下锅后重新凑近；第一锅逞强尝后久久不说话。",
+      "activation": "她的身体距离和嘴硬替读者区分真实危险、难吃和后来共同吃肉的快乐。"
+    },
+    {
+      "source": "approved chapter 7 outline and protected-name boundary",
+      "text": "低阶乡野武士因巡看田沟、秋粮或山林出产来到村中，被最终肉香吸引，允许猎户继续带饶景行进山，并可给少量盐或较好的箭。这不是授职。老猎户、馆主和宅邸正式姓名仍未确认，正文只用七叔、馆主与馆里等现时称呼。",
+      "activation": "权力人物只在烹煮结果已经成为村中事件后偶然介入，通过对猎户的一句有限许可改变下一次狩猎条件。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "第七章从第六章后数日开始，狩猎主体保持连续一日，肉食试做覆盖随后两三日。章节重点是不懂追踪与一箭命中的反差，以及一头腥臊老公猪如何经过共同试错变成可吃食物；不进入三猪爆发、香肠腊肉、正式宅邸召见或武士身份。正文非空白字符至少10000，自然超过不缩减。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

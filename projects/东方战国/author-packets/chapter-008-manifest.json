@@ -1,0 +1,53 @@
+{
+  "chapter": 8,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-007.md",
+    "tail_characters": 4500
+  },
+  "situation_seed_path": "situation-seeds/chapter-008-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md",
+    "author-voice/relationship-lenses/饶景行与陶杏.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-007.md",
+      "text": "七叔和阿槐上次负责追踪、选位、开膛与搬运，饶景行仍分不清多处新旧猪迹，却在不足二十步处一箭射入老公猪耳后。箭杆折断、箭头取回，他没有自己的弓。",
+      "activation": "第二次狩猎仍由本地猎户寻找并逼出猎物；饶景行只在目标进入清楚视野后展现压倒性射击与身体能力。"
+    },
+    {
+      "source": "chapters/chapter-007.md and approved chapter 8 outline",
+      "text": "馆主答应给七叔一队一小包盐和两支较直的箭并准许继续入山。箭和盐都归猎队或分配秩序，不是饶景行的私人奖赏；本章两箭的使用、回收、折损必须落地。",
+      "activation": "开篇以馆里送来的盐和箭触发再猎；山中每次放箭都改变剩余选择，第二箭射出后没有可立即复用的上弦箭。"
+    },
+    {
+      "source": "approved chapter 8 outline",
+      "text": "第一猪在开阔视野出现，饶景行一箭毙命；第二猪从灌木短暂露出，他在极短窗口完成第二次精准致命射击；第三猪随后冲向阿槐，饶景行因刚放完第二箭、射线上有同伴且来不及再搭箭，只能用预先可见的大石侧身拦截并反复砸碎猪头。",
+      "activation": "动作地理依次交代沟谷、坡口、灌木、倒木、猎人位置、猪的来向与石头原位；石击有重量、血、骨裂和险后沉默。"
+    },
+    {
+      "source": "approved chapter 8 outline and world/02-opening-canon.md",
+      "text": "三头猪并不归饶景行一人。需分给馆里、猎户、协助搬运者或村户；饶景行可因射杀和加工取得一张猪皮、较大肉份及少量盐，但仍无独立狩猎权、户籍、武士身份或馆主正式庇护。",
+      "activation": "通过称重感、刀口、捆绳、谁先取哪一块和七叔的制止呈现权利，不由旁白写制度讲义。"
+    },
+    {
+      "source": "approved chapter 8 outline and food-safety floor",
+      "text": "鲜香肠、腌肉和烟熏是受盐、天气、湿度、时间、火候、清洁和器具限制的试验。灌肠可能爆裂，湿肉可能发黏发酸并被丢弃，烟太热会外硬内湿。入口的鲜肠必须煮熟或烤透；挂存的肉日后仍须充分加热，不能把烟熏本身写成绝对安全。",
+      "activation": "加工跨越两三周，以火烟、手感、气味、孩子帮忙和一两次失败呈现，不列配方、克数、账目或现代术语讲座。"
+    },
+    {
+      "source": "characters/taoxing.md and approved chapter 8 outline",
+      "text": "陶杏是七八岁村童，蜜褐晒黑皮肤、大黑眼、鼻梁与眼下雀斑、笑时酒窝与缺牙，双丫髻常缠褪色红绳，衣着有补丁且常沾尘。她先怕三头血猪，洗净后便戴旧头巾挤到近处，能用绳结认各家肉份、管孩子、传柴和偷尝熟肉。",
+      "activation": "她用动作和神态让加工段落轻松活泼，也实际维护份额与生熟边界，不沦为只会说俏皮话的吉祥物。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "第八章题为《三猪下山》。山猎保持连续一日，肉食加工与天气转凉覆盖随后两至三周。整体仍是轻松的村落生活章，但第三猪冲撞与石击必须严肃、清楚、有物理重量；加工不写成配方或账本。展示营养恢复后更鲜明的肩背、手臂和异常力量，同时保留泥、根、器物、食量和社会权利限制。结尾只到馆里派人召见，不进入宅邸、不正式报出‘饶景行’，不提前出现顾棠与围猎；七叔、馆主和馆舍正式名继续受保护。正文非空白字符至少10000，自然超过不缩减。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

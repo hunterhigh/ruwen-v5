@@ -1,0 +1,43 @@
+{
+  "chapter": 1,
+  "latest_approved_prose": null,
+  "situation_seed_path": "situation-seeds/chapter-001-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [],
+  "scene_mode_path": "author-voice/scene-modes/战场与本阵.md",
+  "active_scene_facts": [
+    {
+      "source": "characters/protagonist.md#已确定",
+      "text": "主角名叫饶景行，毕业于联邦大学系统工程专业，进入三木集团总部管培序列；他热爱学习和钻研，追求自己的事业，不善人际，具有精英主义、艺术爱好和高度自律。",
+      "activation": "他会用学习新系统的方式理解山林、身体和军队；赤裸、无助和无法沟通会使他尴尬并高估可靠动作能够带来的控制。"
+    },
+    {
+      "source": "world/01-approved-foundations.md#九、主角基础",
+      "text": "饶景行受过格斗、射击和军事训练，能够主动调节营养摄入、血流、代谢与部分身体状态，但仍受热量、水、盐、睡眠和组织损伤限制。",
+      "activation": "训练会改变他对危险与动作的注意，身体调节能帮助他完成眼前求生，但每次调动都会加重可感知的饥渴、热量或恢复压力。"
+    },
+    {
+      "source": "world/01-approved-foundations.md#九、主角基础",
+      "text": "身体会自动完成必要的微生物环境调节，并在特定隔离部位保留少量原世界细菌或病原体；位置、种类、用途和后果均未知。",
+      "activation": "在饮水、接触血液或准备接近人烟时，他会短暂意识到双向污染，身体完成背景调节并确认留存样本仍在；这不能中断场景形成技术说明。"
+    },
+    {
+      "source": "world/02-opening-canon.md#一、降落地区",
+      "text": "饶景行降落赣南山地，开场赤身裸体，没有本地衣物、武器、货币、语言和社会身份。",
+      "activation": "暴露、赤足、缺水和无语言持续限制他能走的路、能承受的接触以及面对第一个本地人的沟通方式。"
+    },
+    {
+      "source": "world/01-approved-foundations.md#六、军队与战场",
+      "text": "本地军队可能由武士、步卒、长枪、弓和鸟铳部队拼合，以家徽、旗号、本阵、鼓角和传令指挥；饶景行不知道具体阵营与战争原因。",
+      "activation": "他能从可见行动判断技术与战术，却不能知道名称、政治意义或谁代表正义；观察只服务于避险和是否接近人群。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "军事训练不等于杀人心理准备；若冲突造成真实死亡，死亡必须改变饶景行随后接触尸体、取用物资、进食和接近人烟的方式。",
+      "source": "narrative-directives.md#写作中"
+    }
+  ],
+  "maximum_context_characters": 18000
+}

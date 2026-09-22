@@ -1,0 +1,49 @@
+{
+  "chapter": 15,
+  "latest_approved_prose": {"path": "chapters/chapter-014.md", "tail_characters": 3600},
+  "situation_seed_path": "situation-seeds/chapter-015-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与程介.md",
+    "author-voice/relationship-lenses/饶景行与守庙老人.md"
+  ],
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-014.md",
+      "text": "秋猎夜宴后的深夜，饶景行仍被守卫看在姜馆外仓，睡旧席，穿姜馆借出的过短粗麻短褐和临时缝好的长裤；赤足、无武器。顾昭已命辰后验熊、验箭和议功，熊皮、奖赏、去留及身份仍未决定。",
+      "activation": "清晨必须从被看守和等待发落开始；他不能自行离馆，也必须归还借衣并取得可穿、可行路的实际安排。"
+    },
+    {
+      "source": "chapters/chapter-014.md",
+      "text": "角抵留下肩部指痕、腰带勒痕、背部钝痛和轻微膝擦伤，无骨折或关节损伤；白日杀熊后的酸胀、缺眠与饥饿仍在。",
+      "activation": "身体能恢复并搬运重物，但疼痛、饥饿和缺眠持续改变其等待、进食、负重与情绪控制。"
+    },
+    {
+      "source": "chapters/chapter-012.md through chapter-014.md",
+      "text": "饶景行被女席正式传入后逐层命令解衣，拒绝最后贴身衣物；樊岳闯入要求斩首，姜衡把事件改成酒后验力与角抵。公开传播的结果是樊岳三步将杀熊人摔进酒桶，女席细节被压下。",
+      "activation": "离开姜馆后，衣料、旁人目光、残酒气味与命令口吻会触发羞耻和过度警觉；他只能向罗翁叙述自己能说出的部分。"
+    },
+    {
+      "source": "characters/chengjie.md and chapters/chapter-014.md",
+      "text": "程介是谢岱低阶家臣，佩刀、有馆籍、能协助跑腿和看守平民；他为饶景行取水、缝衣、分米饼并询问落桶原因，友善加深但身份差未消失。",
+      "activation": "程介可以帮助捆扎赏物、找鞋和说明归路，不能替顾氏发赏、免役、授籍或替昨夜女席正式道歉。"
+    },
+    {
+      "source": "approved chapter 15 outline",
+      "text": "顾昭方面将赏给饶景行足以按其当前食量节省生活约一年的钱、数匹实用粗布与一大袋米；财物不附带田地、馆籍、佩刀或免除谢馆军役的权利。",
+      "activation": "奖赏的重量和价值足以改变他的日常安全感，却不能改变其社会身份；罗翁夜间清点后能够用本地物价判断其生活时长。"
+    },
+    {
+      "source": "characters/luoweng.md and approved chapter 15 outline",
+      "text": "罗翁仍掌管行山庙、长刀、裂纹短枪与旧厚钱，不曾解释旧主和武艺；他将从饶景行叙述中确认异常力量已被多名武士看见，并决定次日以采药为名带其进山。",
+      "activation": "夜谈可以使罗翁的态度和次日行动发生变化，但本章不能提前展示隐祠仪式、完整身体测试或负山架。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第十五章《负米归山》，非空白字符至少10000，超出不缩减。奖赏包括足以让饶景行按当前食量独自生活约一年的钱、数匹粗布和一大袋米；他与程介道别后独自归山，在无人处因昨夜受辱、差点被杀和失去原世界体面生活而真实哭泣。夜归行山庙后向罗翁坦白有限经过，进行一场围绕具体命令、门槛、家门、身体与生存的长谈。结尾只到罗翁让他次日背药篓上山，不提前写隐祠和刀法。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

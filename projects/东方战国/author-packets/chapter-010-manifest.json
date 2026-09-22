@@ -1,0 +1,19 @@
+{
+  "chapter": 10,
+  "latest_approved_prose": {"path": "chapters/chapter-009.md", "tail_characters": 4500},
+  "situation_seed_path": "situation-seeds/chapter-010-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": ["author-voice/relationship-lenses/饶景行与顾棠.md"],
+  "scene_mode_path": "author-voice/scene-modes/围猎与武士群像.md",
+  "active_scene_facts": [
+    {"source":"chapters/chapter-009.md","text":"饶景行已正式报出姓名读音，高烧失忆成为一致公开来历；他只获围猎外围劳力资格，所带是背筐、粗绳和两面旧驱旗，无弓箭与佩刀。","activation":"他在武士社交中继续少说等问，从泥地外围观察射猎线；熊袭时也不能先取武士弓箭。"},
+    {"source":"characters/gutang.md","text":"顾棠十七八岁、肤白纤细、睡凤眼、左唇下小褐痣，浅藤小袖与象牙白秋草纹长褂，白玉簪和金制银杏叶步摇；不骑射，只陪兄长赏秋野餐。","activation":"她与侍女、车舆、踏板、食盒和风障形成脱离生产的洁净区域，并因饶景行体格和外号放声而笑。"},
+    {"source":"user chapter 10 correction, 2026-08-11","text":"第十章主轴除了了解捕猎，更重要的是众人主动验证饶景行为何力大、能吃；他们会安排他抬举重物、给他不断添饭，像看动物一样观察真假。","activation":"集结与休息中的围猎物资成为逐次加码的测试，饶景行为食物、机会和七叔担保而配合；顾棠由此听见外号并公开发笑。"},
+    {"source":"approved chapter 10 outline","text":"猎户预见异常熊迹但不知位置；武士争射受伤黑熊，马惊和越线使其被逼向劳力休息处与顾棠野餐区。","activation":"危险由可追踪的射线、马群与坡地变化形成，不凭空在主角身边出现；真实杀熊也把先前游戏般的力量测试推翻。"},
+    {"source":"approved chapter 10 outline","text":"饶景行先推开附近人，避第一掌，侧入控制前肢或皮毛，借冲势使熊撞树；熊再次起身后，他近身压制并以地面石块连续击碎头骨。结果毫发无伤但衣物撕裂、满身泥血，随后口渴、发热与强饥饿明显。","activation":"搏斗至少经历一次优势反转，熊有真实重量、爪牙和再次扑击；无伤来自判断、速度、平衡与力量，不是刀枪不入，也保留代谢成本。"},
+    {"source":"world/03-warrior-household-etiquette.md","text":"猎物归主持者，首箭、致命伤、救人和实际杀死者可分离；事故后礼序重新回来，功劳需上位者公开确认。","activation":"熊死后不同人争论箭伤与杀熊，没人能立即把熊皮或武士身份交给饶景行。"}
+  ],
+  "directive_snippets":[{"text":"正文非空白字符至少10000。先写秋草、坡地、林缘、阴云、旗马和声音，再写爆发；不出现电影、镜头等元叙事词。顾棠不爱慕，馆主和馆舍候选名不出现。"}],
+  "maximum_context_characters": 20000
+}

@@ -1,0 +1,16 @@
+{
+  "chapter": 28,
+  "latest_approved_prose": {"path": "chapters/chapter-027.md", "tail_characters": 5000},
+  "situation_seed_path": "situation-seeds/chapter-028-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": ["author-voice/relationship-lenses/饶景行与守庙老人.md", "author-voice/relationship-lenses/饶景行与陶杏.md"],
+  "active_scene_facts": [
+    {"source": "chapters/chapter-027.md", "text": "村人在岁前祭后自然为饶景行留食，陶杏另捏了一只米果熊。", "activation": "新年里接纳已经存在，但不抹去他没有家门和祖先席位的事实。"},
+    {"source": "characters/protagonist.md", "text": "饶景行在原世界一直单身，并把恋爱、婚姻和家庭推迟到事业与位置稳定以后。", "activation": "家户年节和生辰使他无法继续假定亲密生活总能留待以后。"},
+    {"source": "proposals/09-chapter-025-028-winter-return-and-settlement-v1.0.md", "text": "星际风暴失踪在其所知记录中没有归来案例；顾棠吸引真实但最终关系受保护。", "activation": "他只承认自己大概率回不去，并看见身份差距；不宣布宇宙真理或婚配答案。"},
+    {"source": "characters/luoweng.md", "text": "罗翁以庙务、许可、食物和沉默表达关系，不逼问完整来历。", "activation": "长期劳作或种植必须经老人许可，谈话保持窄而具体。"}
+  ],
+  "directive_snippets": [{"text": "写第二十八章《异乡生辰》：以新年触发生辰复算、旧生活与正式接纳此世；让事业、家庭、暴力与向上愿望通过当下生活和具体记忆交织，结尾开始一件多年后才有回报的现实劳作。"}],
+  "maximum_context_characters": 20000
+}

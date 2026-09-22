@@ -1,0 +1,52 @@
+{
+  "chapter": 9,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-008.md",
+    "tail_characters": 4500
+  },
+  "situation_seed_path": "situation-seeds/chapter-009-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md"
+  ],
+  "scene_mode_path": "author-voice/scene-modes/诸侯与家臣对话.md",
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-008.md",
+      "text": "馆里来使在庙前召‘饶不饱’或异乡人次日日上两竿前到。馆里只知道三猪、烟肉、外号与异常力量；饶景行的正式姓名尚未在本地权力场合报告。",
+      "activation": "召见使饶景行必须在来历无法验证的情况下决定如何报身、交礼和回答狩猎功劳。"
+    },
+    {
+      "source": "chapters/chapter-008.md",
+      "text": "饶景行肩背、手臂与腰腹已因肉食恢复得更鲜明，旧短衣下摆被猪獠牙撕开，放宽处也绷紧；他有烟肉和一张阴干中的猪皮，但无合身礼服、佩刀资格、主家或户籍。",
+      "activation": "村人只能凑出相对整洁却肩背紧窄的借衣；进入武士宅邸时，他的体格、空手和衣着同时暴露身份。"
+    },
+    {
+      "source": "world/03-warrior-household-etiquette.md",
+      "text": "陌生平民在外门报来意并交出礼物与长兵器，沾泥鞋不得踏木廊；主人未坐不得先坐。正式会面中下位者靠门跪坐，不能摸刀架或越席；佩刀位置、能否入屋和谁先动筷都显示信任与身份。",
+      "activation": "礼仪通过守门人的拦停、脱鞋、候坐、刀的方向、矮案和饭食次序直接改变饶景行可做的动作。"
+    },
+    {
+      "source": "approved chapter 9 outline and protected-name boundary",
+      "text": "馆邸是有土墙或木栅、瓦顶正屋、小粮仓、马厩、练习空地和数间附属房的低阶武士宅邸；馆主有数名带刀家人和有限土地，能支配附近村落，仍服从石梁顾氏。馆主与馆舍正式名称继续不在正文出现。",
+      "activation": "饶景行从稳定粮食、马匹、武器架、漆器、书画和专门服侍者看见村落之上的生活层级，却不能据此自动理解完整政治关系。"
+    },
+    {
+      "source": "approved chapter 9 outline",
+      "text": "馆主直接询问后，饶景行第一次在本地权力场合完整报出‘饶景行’，馆中记事者可写下姓名并从用字看出教育痕迹；记名不赋予家名、籍贯、俸禄、户籍、狩猎权或武士身份。",
+      "activation": "姓名从村中私下称呼变成一笔受权力保存的记录，但他的来历仍无法得到任何本地人担保。"
+    },
+    {
+      "source": "approved chapter 9 outline",
+      "text": "馆主因狩猎与烟肉价值，允许饶景行随即将举行的武士围猎同行，但只负责驮运猎物、搬器材、布置与驱赶，不进入武士射猎位置；馆主可要求猎获肉食优先供馆里试做，却不建立成熟商业契约。",
+      "activation": "召见最终改变的是他能进入围猎外围并承担劳力差遣，而不是成为武士或获得平等席位。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "第九章题名避免使用仍受保护的馆舍正式名。时间以准备拜访、次日往返与一次正式会面为主，保持一至两日连续体验。武士并非粗野模板：馆内可自然谈弓马、旧事、字画或诗句，显示教养与各自趣味；饶景行能观察、模仿和欣赏，却不能立即读懂全部礼法与政治。礼仪从错误和反应中出现，不写成课堂。正文非空白字符至少10000，自然超过不缩减；结尾只获得围猎外围资格，不提前出现顾棠、贵族野餐、骑射围猎或熊袭。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

@@ -1,0 +1,51 @@
+{
+  "chapter": 14,
+  "latest_approved_prose": {"path": "chapters/chapter-013.md", "tail_characters": 4600},
+  "situation_seed_path": "situation-seeds/chapter-014-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与樊岳.md",
+    "author-voice/relationship-lenses/饶景行与程介.md",
+    "author-voice/relationship-lenses/饶景行与姜馆男席.md"
+  ],
+  "scene_mode_path": "author-voice/scene-modes/角抵输赢与酒后余波.md",
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-013.md",
+      "text": "深夜姜馆前庭，旧草席铺在硬木板上，四角有灯，刀留席外。饶景行赤足、裸上身，绑腿与腰带由程介重新束紧；樊岳脱去外袍，左肩后有旧伤，饮酒后仍站得很稳。两人已经第一次搭手。",
+      "activation": "角抵必须从樊岳扣住腰带和右上臂的真实发力连续开始，不能重新介绍或跳过第一下身体接触。"
+    },
+    {
+      "source": "chapters/chapter-013.md",
+      "text": "姜衡规定肩背、双手或腰以上明显触席为倒，不得击眼、咬人、摸刀，出席重来；樊岳摔倒饶景行算教训劳力，饶景行撑住三合则暂缓斩首。",
+      "activation": "谁先明确触席、是否完成一合和主持者如何判定直接决定饶景行能否活过当夜。"
+    },
+    {
+      "source": "chapters/chapter-013.md",
+      "text": "姜衡与顾昭坐廊边主持，谢岱、姚简、鲍峻、段守约和其他武士围观；程介在席外保管饶景行的短褐。女席帘仍合着，侍女只在格门后留下影子。",
+      "activation": "观者的喝彩、停笑、站位和判词会使同一个身体结果获得不同社会含义；女眷只能听见，不能突然掌握场上动作细节。"
+    },
+    {
+      "source": "characters/protagonist.md and chapters/chapter-010.md",
+      "text": "饶景行的身体力量、稳定、反应与控制远超常人，但白日刚徒手杀熊，深夜只有一顿赏饭补充，存在深层酸胀；他接受过企业实验配套训练，不是军人，也没有本地角抵经验。",
+      "activation": "他能抵抗和临场选择落点，却要从樊岳动作中学习，不能以全知招式或轻松碾压解决。"
+    },
+    {
+      "source": "chapters/chapter-013.md",
+      "text": "樊岳不能在姜馆自行处刑，斩首只被暂缓；顾昭只同意不用刀，熊功与饶景行去留留待次日。",
+      "activation": "角抵结束只能解除当夜即时杀身风险，不能自动带来武士身份、正式庇护、熊皮、佩刀或客房。"
+    },
+    {
+      "source": "approved chapter 14 outline",
+      "text": "前庭边缘可有宴席撤下的空桶、残酒或洗杯水与软屏，但这些只是姜馆真实杂物，不是预先布置的机关。",
+      "activation": "当两人运动到席边且必须选择安全落点时，杂物可以把一次危险摔落变成足够公开、狼狈且可笑的结果。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第十四章《输赢之间》，非空白字符至少10000，目标约11000至13000，超出不缩减。饶景行先尝试过于明显地卸力，被樊岳识破；随后只防守又使樊岳无法撼动，反而伤及对方面子；最后在真实冲撞中托护樊岳后颈与旧肩，由自己先触席并撞翻场边空桶、残酒或软屏，让樊岳取得公开胜利。姜衡以夸张笑语封住结果，顾昭只说明日再议熊功。余波写到程介帮助擦洗、送冷饭热水和安排外仓旧席，饶景行仍睡在门外。主角不解释完整策略，女席不公开出帘，正文不得出现章节编号等元叙事锚点。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

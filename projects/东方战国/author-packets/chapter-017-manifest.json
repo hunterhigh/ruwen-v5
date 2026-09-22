@@ -1,0 +1,49 @@
+{
+  "chapter": 17,
+  "latest_approved_prose": {"path": "chapters/chapter-016.md", "tail_characters": 3600},
+  "situation_seed_path": "situation-seeds/chapter-017-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md",
+    "author-voice/relationship-lenses/饶景行与陶杏.md"
+  ],
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-016.md",
+      "text": "第十六章日暮，饶景行仍在行山公隐祠旁用裂口短竹练习右手横负脑后的一手劈击；落点逐渐接近草束中部，但步幅、制动、回刀与距离仍不成熟。罗翁尚未给架势命名。",
+      "activation": "第十七章须从当夜返庙或次晨肌肉与器物余波自然接续，不能把初学一夜写成已经掌握完整刀法。"
+    },
+    {
+      "source": "chapters/chapter-016.md",
+      "text": "罗翁已经确认饶景行兼具异常力量、静稳、爆发、耐力、恢复、平衡、反应和精细控制，且饥饿会随高消耗迅速出现；行山庙已通过隐祠姓名木牌给予有限来处与祭祀承认。",
+      "activation": "训练可进入真实冬前劳作并提高条件复杂度；粮食与进食必须真实支撑消耗，两人的关系比临时庙居更深但仍无正式师徒名分。"
+    },
+    {
+      "source": "world/04-fushan-combat-system.md",
+      "text": "负山后台逻辑为主动攻击靠力量、主动防守靠敏捷、防守反击靠速度；能躲则以小幅移线躲，躲不开才从脑后以刀身强部斜向挡线，架后借反弹和肩部回转立刻短击。空闲左手可推、抓、扶、提物或临时接柄，但不能徒手碰锋刃。",
+      "activation": "罗翁用竹杖和日常障碍让这三层身体逻辑第一次可见，但不得由叙述或人物一次总结成完整体系，也不得表现为无条件躲开所有攻击。"
+    },
+    {
+      "source": "chapters/chapter-015.md and project status",
+      "text": "饶景行拥有足够其按当前食量节省生活约一年的钱、三匹粗布和一大袋米，大半由罗翁分存；罗翁已要求用小份赏钱换盐、针线和冬衣，布须另付工钱请人裁。",
+      "activation": "本章可通过真实购买耐存食物、分粮和量体裁衣表现物资宽裕，不能把钱写成无限，也不能让新衣立即凭空完成。"
+    },
+    {
+      "source": "characters/taoxing.md",
+      "text": "陶杏七八岁，晒黑蜜褐肤色、大黑眼睛、左脸浅酒窝、缺一颗上门牙，双丫髻系褪色红绳；淘气、嘴快、爱模仿，信任饶景行却仍会怕真危险。",
+      "activation": "她能把古怪持竹姿势当游戏，制造需要饶景行克制力量和停止训练的日常干扰；外貌只从跑动、模仿和被吓后的掩饰中选取。"
+    },
+    {
+      "source": "proposals/06-chapter-015-017-return-protection-training-v1.0.md",
+      "text": "入冬前谢馆会到村里核点适役男子并专门传召饶景行；来人已听过怪力，只能要求他次日赴馆并提及入册或军役，不在村中落实籍贯、期限、佩刀、旗手或其他具体差遣。",
+      "activation": "召见在本章后段中止已稳定数日的庙村生活，把下一步权力决定留给第十八章现场。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第十七章《竹声入冬》，非空白字符至少10000，超出不缩减。训练必须进入做饭、采药、修路、捕鱼、备冬和村人来往，不写成招式清单；罗翁开始训练小幅躲避、来不及躲时的快速回刀挡线、架后不重新蓄满力量的立即还击，并让饥饿、淤青、误判和器物限制持续存在。陶杏与村童维持轻松日常。章末只让谢馆军役召见抵达，具体籍贯与差遣后置。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

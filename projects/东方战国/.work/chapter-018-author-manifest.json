@@ -1,0 +1,53 @@
+{
+  "chapter": 18,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-017.md",
+    "tail_characters": 2300
+  },
+  "situation_seed_path": "situation-seeds/chapter-018-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与程介.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-017.md",
+      "text": "谢馆命饶景行辰初赴馆议入册与军役；他依罗翁之言将训练短竹留在庙里，穿洗过的旧衣空手下山。",
+      "activation": "这决定饶景行出门时的身体不安、随身物和抵达谢馆的直接目的。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "谢馆本次出五十余名足轻，二十鸟铳、三十长枪及替补旗手；佩刀家臣另计。饶景行与十余名役夫不入战斗队，只能领取背绳、蓑衣、饭袋和抬物短杠。",
+      "activation": "这决定谢馆外院的前景活动、人物分组和饶景行当下可用行动。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "饶景行登记为石梁东乡行山里寄籍，只记录大热失忆、由行山庙认领；不虚构出生村落。",
+      "activation": "这个登记同时改变其被承认和被征发的处境，并触发他对姓名与归属的复杂感受。"
+    },
+    {
+      "source": "characters/taoxing.md",
+      "text": "陶杏七八岁，晒黑蜜褐肤色、大黑眼睛、缺一颗上门牙、双丫髻系褪色红绳；她淘气好奇，仍会怕真正的兵器、血和母亲发怒。",
+      "activation": "她送新衣和追问归期时，孩子式理解与真实恐惧改变离村场面的情绪。"
+    },
+    {
+      "source": "characters/chengjie.md",
+      "text": "程介与饶景行有两根借出麻绳的具体旧约；程介友善但有佩刀、馆籍和主人，双方并不平等。",
+      "activation": "重逢时麻绳和正式差遣使两人的轻松与地位差同时可见。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "谢垣记得十一年前拒役的家臣版本，陆槐记得误农劳役的平民版本；两人只会因眼前点兵争论而提旧事。",
+      "activation": "当前征发使旧战成为不同人物解释眼前责任的工具，而非作者年表。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "source": "narrative-directives.md#写作中",
+      "text": "饶景行不自动理解本地人心、权谋、政治与统治；他可以形成假设，也必须允许误判、迟悟和被他人教育。"
+    }
+  ],
+  "maximum_context_characters": 15000
+}

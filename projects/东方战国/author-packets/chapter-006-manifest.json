@@ -1,0 +1,48 @@
+{
+  "chapter": 6,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-005.md",
+    "tail_characters": 4200
+  },
+  "situation_seed_path": "situation-seeds/chapter-006-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md",
+    "author-voice/relationship-lenses/饶景行与陶杏.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-005.md ending",
+      "text": "第五章暴雨后，柴房竹榻与《百物》所在处保持干燥；门框和正屋西角仍有小漏。饶景行继续住在庙中，鱼篓是不稳定的小量食物来源，罗翁只承诺让他住到自己知道去处。",
+      "activation": "饶景行决定下村找活的直接原因是庙中食物不足，而不是被赶走；庙居仍是他每日往返的起点和归处。"
+    },
+    {
+      "source": "characters/protagonist.md and approved chapter 6 outline",
+      "text": "饶景行能感知并有限调节血流、代谢、呼吸和肌肉募集；力量已经远超普通人，但长期热量、蛋白质、盐分和休息不足使身体仍在节省。测试只用低风险劳动、短坡加速、平衡与恢复感受，不给百分比或检测报告。",
+      "activation": "他会在现实劳动中试探能够稳定使用的力量，同时因饥饿和恢复延迟决定必须增加食物。"
+    },
+    {
+      "source": "world/02-opening-canon.md and character permissions",
+      "text": "长刀、裂纹短枪与厚钱继续由罗翁保管；缺口短刀只供庙务；饶景行尚余一枚薄钱并拥有《百物》、半截墨条和破瓦。",
+      "activation": "他进村做工不携武器，也不靠钱大量购粮；劳动和明确饭食是眼下可行方式。"
+    },
+    {
+      "source": "characters/taoxing.md",
+      "text": "陶杏七八岁，蜜褐肤色、大黑眼睛、左脸浅酒窝、缺一颗上门牙，双丫髻系褪色红绳；穿补丁靛蓝短衣、赭褐裙和灰布窄裤，草鞋略大。她淘气、馋嘴、爱凑热闹，已敢在饶景行身边跑跳，但仍是普通村童。",
+      "activation": "她会以身体距离、跟随劳动、当众追问饭量和传播外号参与村落接纳；外貌只随动作激活两三个细节。"
+    },
+    {
+      "source": "approved chapter 6 outline",
+      "text": "罗翁不替饶景行安排村中工作，只提醒做活先问主人、吃饭先说清楚；村民从谨慎给一件重活，到允许他自行进院挑水搬柴。陶杏最先叫出‘饶不饱’，成年人随后善意沿用；饶景行认真纠正一次自己叫饶景行，却逐渐知道外号是在叫他。",
+      "activation": "称呼必须从一顿吃不饱的饭和村中笑声自然生长，信任则由院门、工具、饭锅与孩子靠近的变化表现。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "本章覆盖雨后约十日至两周，但用几场完整劳动和被食物串联的生活呈现，不写逐日账本。语气轻松具体，重点是劳动、饥饿、陶杏的淘气和村落日常接纳；不出现重大危险、政治事件、打猎、正式身份跃升、游戏结算或微生物说明。正文非空白字符至少10000，自然超过不缩减。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

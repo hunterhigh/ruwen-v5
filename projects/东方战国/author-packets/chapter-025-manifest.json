@@ -1,0 +1,43 @@
+{
+  "chapter": 25,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-024.md",
+    "tail_characters": 5000
+  },
+  "situation_seed_path": "situation-seeds/chapter-025-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与顾棠.md",
+    "author-voice/relationship-lenses/饶景行与程介.md",
+    "author-voice/relationship-lenses/饶景行与樊岳.md"
+  ],
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-024.md",
+      "text": "雨袭后数日，饶景行左臂与右腿浅伤正在收口，已领一束约够个人两三个月粗粮的赏钱，仍是受谢馆差遣的役夫。",
+      "activation": "湿冷、伤口、饥饿与役夫位置影响归程中的身体和视线；赏钱不展开核算，也不带来身份改变。"
+    },
+    {
+      "source": "proposals/09-chapter-025-028-winter-return-and-settlement-v1.0.md",
+      "text": "雨袭后没有新的大规模交锋。此前战事已使盆地北部数处小城寨投降，联军因寒雨、缺少冬衣和道路季节停止南攻，留下守军控制降寨与梅岭古道南口，其余各家北归。",
+      "activation": "停战通过寒冷身体、降旗、留守者与拔营呈现，不由旁白完整解释军议。"
+    },
+    {
+      "source": "proposals/09-chapter-025-028-winter-return-and-settlement-v1.0.md",
+      "text": "北归约十一至十三日，路线与来程十余日相当；诸家在山道和岔路逐渐分流。石梁民众只知道得胜、守住岭口与归军，不知道雨夜细节。",
+      "activation": "只选有体验的路段与闲谈压缩行程，消息保持矛盾和有限，不写逐日行军账。"
+    },
+    {
+      "source": "characters/fanyue.md; characters/gutang.md",
+      "text": "樊岳此前在白日合战另一战线讨取一名孙氏武士，雨袭追击又杀孙宗弼，带既成军功归来；顾棠随家门女眷到石梁迎接兄长顾昭，穿冬季贵族衣物，感情未知。",
+      "activation": "樊岳自然成为迎军欢呼焦点；饶景行先在人群中寻找顾棠，顾棠的注意力仍属于兄长与本家。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第二十五章《诸旗归山》，非空白字符至少10000，超出不缩减。写寒雨停战、十余日北归、诸军分流、樊岳携此前合战战功受迎，以及饶景行在欢迎人群中看见顾棠和自身地位。不要新增大交锋、行军账本、战功核算、装备琐事、全知民众或程介无条件照护。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

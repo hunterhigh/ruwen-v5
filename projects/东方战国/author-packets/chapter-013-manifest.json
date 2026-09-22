@@ -1,0 +1,19 @@
+{
+  "chapter": 13,
+  "latest_approved_prose": {"path": "chapters/chapter-012.md", "tail_characters": 4200},
+  "situation_seed_path": "situation-seeds/chapter-013-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": ["author-voice/relationship-lenses/饶景行与程介.md", "author-voice/relationship-lenses/饶景行与姜馆男席.md"],
+  "scene_mode_path": "author-voice/scene-modes/酒后武士群像与临时角抵.md",
+  "active_scene_facts": [
+    {"source":"chapters/chapter-012.md","text":"樊岳按刀闯入女席时，饶景行赤足、无武器，只剩贴身短裤；短褐、长裤、腰带和绑腿叠在膝旁，鞋在外廊。荀含章、顾棠、辛月娘、季宛、绮娘和侍女都在内厅。","activation":"樊岳必须先面对妻子与高位女眷，饶景行需要在被带出前匆忙穿衣；外廊人只能凭所见和传话判断。"},
+    {"source":"characters/fanyue.md and approved outline","text":"樊岳是辛月娘丈夫和姜衡资深武士，高大宽胸、左耳缺角、鼻梁旧折右偏，佩黑皮缠柄长刀；愤怒但仍守基本礼序，无权在姜衡馆中自行处斩。","activation":"他先向荀含章和顾棠低头，再把最重责任压向劳力、守卫与程介；刀威胁真实但受馆主权限约束。"},
+    {"source":"approved chapter 13 outline","text":"姚简二十三岁，下巴尖、淡须、佩红漆短鞘和旧刀绳；新婚妻子季宛在女席。段守约五十二岁，左眼微浑、灰白短须、旧茶褐袍，只陈述可确认事实。","activation":"姚简从失笑转为要求封住消息；段守约确认正式传唤、守卫引路和无擅闯后便闭口。"},
+    {"source":"approved chapter 13 outline","text":"鲍峻三十岁，长鼻、左下颌三处浅麻点，右拇指被染箭羽的红料染色，披暗赭短衣；他声称自己的箭重伤黑熊，希望饶景行消失后熊功回到射手。","activation":"他主动把内院失度扩大成平民污女席与家法危机，反对只按传唤事实轻放。"},
+    {"source":"characters/chengjie.md, xiedai.md, guzhao.md, jiangheng.md","text":"程介是低阶家臣，谢岱要保护差遣与自身责任，顾昭先保护妹妹和顾氏名声，姜衡拥有馆中最终处置权并擅长以笑改变争议名称。","activation":"四人的帮助均带不同地位与私利；没有人以现代公平原则替饶景行辩护。"},
+    {"source":"approved chapter 13 outline","text":"姜衡最终将女席丑闻改写为酒后验力，提出由樊岳与饶景行角抵；刀留席外，旧草席铺前庭。本章只写到两人第一次搭手，饶景行发现樊岳真正懂得发力。","activation":"斩首威胁暂缓但未消失；饶景行必须在赢、输和伤及武士体面都危险的条件下进入下一章。"}
+  ],
+  "directive_snippets":[{"text":"写第十三章《刀下酒意》，非空白字符至少10000，目标约11000至13000，超出不缩减。群像必须通过动作、站位、酒态、佩刀与互相打断展开，不写成立场轮流发言。樊岳先守礼再迁怒，程介求情被刀鞘推倒，顾昭确认顾棠未受触碰，段守约只述事实，姚简因季宛在场改变态度，鲍峻借机挑大，姜衡以笑把斩首改成角抵。结尾停在樊岳与饶景行第一次搭手，绝不写角抵结果。正文不得出现章节编号等元叙事锚点。"}],
+  "maximum_context_characters": 20000
+}

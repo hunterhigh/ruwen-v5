@@ -1,0 +1,53 @@
+{
+  "chapter": 21,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-020.md",
+    "tail_characters": 2600
+  },
+  "situation_seed_path": "situation-seeds/chapter-021-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与程介.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-020.md",
+      "text": "联军停在孙氏第一外栅北侧谷地；石梁备及谢馆两车位于后侧坡地，饶景行仍是无甲兵役夫。",
+      "activation": "饶景行只能从后坡有限视线和被送回的人经历战斗，不能进入正面或获得全局视角。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "正面狭窄上坡有木栅、障碍和射击位；西侧废弃运炭坡不能容成队进攻，却可供沈砺七人攀登。",
+      "activation": "地形决定顾军正面只能投入数百，沈砺的小队行动也会被树木、烟和坡面遮断，饶景行只能断续观察。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "沈砺以短枪和绳钩上坡，侧栅内弃卡住的短枪拔略长战刀，以贴身、破重心和攻击甲隙杀敌；六名同伴一死两伤，沈砺肩甲破裂、左腿划伤。",
+      "activation": "武勇必须通过具体距离、同伴代价和后续枪队投入成立，不能写成一人无伤破军。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "陀岚战首弥火在侧坡将破时保存本部退入林中；孙伏川受伤撤离。二人的内心和完整命令不向饶景行开放。",
+      "activation": "主角只能看见山脊纹盾撤走、栅内旗号和他人事后说法，不能直接叙述敌将判断。"
+    },
+    {
+      "source": "chapters/chapter-001.md",
+      "text": "饶景行曾在杀死山溪败兵后徒劳检查呼吸、清理口鼻并按压伤处；军事化训练不等于接受杀人。",
+      "activation": "面对首名伤卒，他会抓住基础急救动作，但具体死亡与求生话语仍会击穿技术性的控制感。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "战后首级、家徽和甲衣参与功劳与身份处置；沈砺只索赏钱，饶景行与其最多短暂对视。",
+      "activation": "胜利之后，饶景行将从搬运和辨活者位置看见暴力如何变成可记录的功劳，但不会与沈砺建立关系。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "source": "narrative-directives.md#写作中",
+      "text": "首战以现代普通人的心理边界旁观：恐惧、庆幸、羞耻、被迫观察和对具体伤亡的反应并存；不以一次旁观完成战争哲学或杀人适应。"
+    }
+  ],
+  "maximum_context_characters": 17000
+}

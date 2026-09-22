@@ -1,0 +1,53 @@
+{
+  "chapter": 20,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-019.md",
+    "tail_characters": 2400
+  },
+  "situation_seed_path": "situation-seeds/chapter-020-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与程介.md"
+  ],
+  "scene_mode_path": null,
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-019.md",
+      "text": "饶景行仍是谢馆役夫，无甲兵；谢馆两辆车随石梁备驻在顾军南侧，其他赣南家族刚以独立旗阵抵达。",
+      "activation": "这决定他从后队、道路和宿营边缘经历联军南行，不能进入上层军议或战斗序列。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "南行约十日至半个月，以连续生活段落压缩；诸家共享道路但保留自己的旗、哨兵、前锋与指挥边界。",
+      "activation": "道路拥堵、让路、宿营与村寨反应会让饶景行切身认识联军，而非通过军力账目获知。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "黎崇峤黑红肤色、左长眉、暗绿甲绳旧札甲；钟彦章圆脸肿眼、盔插细黑翎；赖清臣瘦白、冬日执扇；温衡短颈厚唇、黑胸甲有两处铳凹。",
+      "activation": "他们因道路和营位摩擦进入饶景行视野时，外貌与处事方式使诸家立场可以被区分。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "沈砺带六名浪人随军，只以旧甲、坡口位置和相互默契首次出现；不与饶景行交谈，不揭示过去和刀法。",
+      "activation": "饶景行会因这些人选择能看见道路与马匹的位置而注意他们，但没有理由获得姓名以外的详细信息。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "梁公、井陉代军、乌铎新汗等历史消息均是未验证传闻，只能从商贩、浪人或旧甲主人当前的利益进入。",
+      "activation": "宿营闲谈可扩大世界，但饶景行会保留来源差异，不把传闻整理成全知历史结论。"
+    },
+    {
+      "source": "proposals/07-chapter-018-021-gannan-campaign-v1.0.md",
+      "text": "联军最终约八千；到孙氏第一外栅时，褐红旗在谷口，较高山脊偶见陀岚小盾，真正可接近木栅的空间只容数百人。",
+      "activation": "长队抵达梅岭时，地形会使宏大人数立刻收缩为饶景行能看见的有限正面。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "source": "narrative-directives.md#写作中",
+      "text": "军旅与行军不得写成每日搬运、火药维护、口令和配额账本；优先呈现景色、身体、人物关系与能改变当下选择的细节。"
+    }
+  ],
+  "maximum_context_characters": 16500
+}

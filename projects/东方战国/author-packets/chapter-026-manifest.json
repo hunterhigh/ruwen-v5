@@ -1,0 +1,42 @@
+{
+  "chapter": 26,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-025.md",
+    "tail_characters": 5000
+  },
+  "situation_seed_path": "situation-seeds/chapter-026-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md",
+    "author-voice/relationship-lenses/饶景行与陶杏.md"
+  ],
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-025.md",
+      "text": "饶景行随谢馆小旗离开石梁欢迎人群，当日晚间尚须先回馆完成归军差遣，再独自回行山里。",
+      "activation": "开篇从归军回到小馆和村落的具体收束开始；不重新叙述整段欢迎。"
+    },
+    {
+      "source": "characters/protagonist.md",
+      "text": "饶景行仍为谢馆役夫和可撤寄籍者；左臂、右腿浅伤基本收口。他被孙宗弼以距离、诱击和重心完整击败，真正难以承受的是自己拥有异常身体却仍显得粗陋、可笑、无法建立功名。",
+      "activation": "怨气从做事过重、回避目光和对教法的指责泄出，不由旁白先总结；他知道迁怒不对，却仍会越界。"
+    },
+    {
+      "source": "characters/luoweng.md; world/04-fushan-combat-system.md",
+      "text": "罗翁动作不靠持续高速和硬拼，而靠距离、工具、规则、时机和对饶景行习惯的了解；其教学少解释、少命名，已经训练过避线、回竹招架、短促反击、左手推抓和收势。",
+      "activation": "争执后以一次空间清楚、只有数合的竹棍交手压服；罗翁利用主角不愿真正伤老人的迟疑，但也必须展示真实技术并承担风险。"
+    },
+    {
+      "source": "proposals/09-chapter-025-028-winter-return-and-settlement-v1.0.md",
+      "text": "罗翁后台判断饶景行约一年可能成长为天下罕见武士，过去只先教自保并观察德行；该判断、完整保留程度和最终意图均为受保护未知。",
+      "activation": "只约束罗翁不交代全部体系；正文不可直接揭示其判断。交手后必须出现呼吸急促、手抖或坐下等体力代价。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "写第二十六章《竹上咽喉》，非空白字符至少10000，超出不缩减。写归馆、村中欢迎、陶杏、归庙，以及饶景行因战场失败迁怒罗翁的精彩对话。罗翁追问他为何离位追敌，并以极短、空间清楚、承担真实风险的竹棍交手压服，竹端制住咽喉后显出体力代价。不要装备账本、武功说明书、神秘省略、主角突然谦逊或揭露罗翁后台判断。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

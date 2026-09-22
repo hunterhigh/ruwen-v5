@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "opening_mode": "bodily awakening",
+      "dominant_force": "survival under external threat",
+      "temporal_shape": "continuous action",
+      "closure_type": "decision toward human contact",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "无名败兵"],
+      "emotional_residue": "第一次杀人的内疚与对接近人群的迟疑",
+      "material_residue": "败兵衣物、长短刀、裂纹短枪、食水火具与不明钱币"
+    },
+    {
+      "chapter": 2,
+      "opening_mode": "approach to an inhabited threshold",
+      "dominant_force": "negotiating shelter without shared language",
+      "temporal_shape": "single evening, rain, night, and dawn",
+      "closure_type": "narrow permission to leave and return",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "守庙老人", "无名村妇", "无名女孩"],
+      "emotional_residue": "对老人有限善意的松弛与对自身力量、武器和杀人记忆的持续戒备",
+      "material_residue": "旧草鞋、归还的缺口短刀、仍被扣留的长刀与靠墙的裂纹短枪"
+    },
+    {
+      "chapter": 3,
+      "opening_mode": "first independent household task",
+      "dominant_force": "learning language through work, error, and limited trust",
+      "temporal_shape": "seven-day lived montage with full turning scenes",
+      "closure_type": "permission to descend toward the settlement",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "守庙老人", "无名村妇", "无名女孩", "无名男孩", "三名带武器过客"],
+      "emotional_residue": "初步掌握规律的满足、对下山的期待，以及把刀与厚钱留在正屋的不安",
+      "material_residue": "旧草鞋、两枚薄钱、空篓与水囊随身；长短刀、裂纹短枪及厚钱留在正屋"
+    },
+    {
+      "chapter": 4,
+      "opening_mode": "first descent into a town",
+      "dominant_force": "orientation through market life, family memory, books, and hunger",
+      "temporal_shape": "one town day followed by two days of study and fishing",
+      "closure_type": "quiet domestic competence with a repeatable food attempt",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "守庙老人", "无名村妇", "无名女孩", "石梁城守门人", "粮铺与书铺人物"],
+      "emotional_residue": "获得第一本自有书的满足、对父母旧方言的新理解，以及在庙中逐渐能说上话的轻松",
+      "material_residue": "《百物》、半截墨条、破瓦、一枚薄钱与支沟鱼篓；长刀、裂纹短枪及厚钱仍留正屋"
+    },
+    {
+      "chapter": 5,
+      "opening_mode": "empty fish trap and an approaching storm",
+      "dominant_force": "earning a place through shared maintenance rather than explanation",
+      "temporal_shape": "several lived workdays culminating in an overnight rain test",
+      "closure_type": "ordinary chore chosen before private study",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "罗翁", "无名村妇", "无名女孩", "陶二", "陶四", "无名老妇"],
+      "emotional_residue": "双方各自透露一点来处却保留身世；饶景行获得有限、可撤回但具体的庙中位置",
+      "material_residue": "柴房局部椽瓦得到加固，竹榻与书册处经雨保持干燥；《百物》、墨条和破瓦有借用木箱与住时可用的置物板，其他漏点仍待修"
+    },
+    {
+      "chapter": 6,
+      "opening_mode": "hunger after ordinary breakfast",
+      "dominant_force": "finding enough food through village labor without overstepping social boundaries",
+      "temporal_shape": "roughly two weeks carried by several full work-and-meal scenes",
+      "closure_type": "public nickname and another ordinary job",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "罗翁", "陶杏", "陶二", "村中男女与儿童"],
+      "emotional_residue": "饭量造成的难堪被陶杏变成共同笑料，饶景行开始把远处的外号当作对自己的呼唤",
+      "material_residue": "较稳定的以工换饭入口、开始恢复的肩背与前臂、经旧布放宽的短衣；仍无稳定粮储和正式身份"
+    },
+    {
+      "chapter": 7,
+      "opening_mode": "borrowing an old bow at the village edge",
+      "dominant_force": "testing exceptional shooting inside the practical limits of experienced hunters",
+      "temporal_shape": "one hunt followed by three communal cooking attempts",
+      "closure_type": "limited permission to hunt again",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "七叔", "阿槐", "陶杏", "馆主", "村中男女与儿童"],
+      "emotional_residue": "杀兽短暂牵动第一次杀人的记忆，但村人围锅再夹一块肉的日常声响把他留在当下",
+      "material_residue": "铁箭头取回、旧弓归还；七叔小队将得到一小包盐与两支较直的箭，并获准继续入山"
+    },
+    {
+      "chapter": 8,
+      "opening_mode": "delivery of two good arrows and a small salt bag",
+      "dominant_force": "turning three dangerous kills into shared food without owning the mountain or the whole prey",
+      "temporal_shape": "one continuous hunt followed by two to three weeks of communal preservation trials",
+      "closure_type": "summons to the warrior residence",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "七叔", "阿槐", "陶二", "陶杏", "罗翁", "村中男女与儿童", "馆里来使"],
+      "emotional_residue": "石击后的沉默通过阿槐承认自己被救留下关系余波，随后被烟棚、坏肉与孩子偷尝重新带回村落日常",
+      "material_residue": "一张阴干中的猪皮、有限肉盐与首批可挂存烟肉；两支好箭一弯一断，次日须赴馆应召"
+    },
+    {
+      "chapter": 9,
+      "opening_mode": "borrowing a presentable but tight coat",
+      "dominant_force": "surviving formal scrutiny through constrained speech, thresholds, seating, and witnessed usefulness",
+      "temporal_shape": "evening preparation and one continuous visit the next day",
+      "closure_type": "assignment to the hunting periphery",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "罗翁", "陶杏", "七叔", "馆主", "馆中家臣与记事者"],
+      "emotional_residue": "正式姓名的读音被馆里留下，高烧失忆成为必须维持的公开来历；数次失礼纠正使他开始收缩在权力场合的回答",
+      "material_residue": "围猎所需旧背筐、粗绳与两面旧驱旗；无弓箭、佩刀、户籍或武士身份"
+    },
+    {
+      "chapter": 10,
+      "opening_mode": "predawn labor muster and public testing",
+      "dominant_force": "being publicly appraised as strength and appetite before real danger",
+      "temporal_shape": "one continuous autumn hunt day",
+      "closure_type": "bodily residue and unresolved institutional appraisal",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "七叔", "馆主", "顾棠", "顾氏年轻武士", "馆中家臣", "武士、猎户与劳力"],
+      "emotional_residue": "被当作奇物的难堪在熊袭中变成众人的惊惧与重新估价；顾棠第一次把外号后的劳力记作具体姓名",
+      "material_residue": "黑熊尸体、散乱野餐器具、再次撕裂且沾满泥血的短衣，以及熊功、熊皮和去留均未决定"
+    },
+    {
+      "chapter": 11,
+      "opening_mode": "hunt dispersal and retained labor",
+      "dominant_force": "entering a larger warrior household through work and unequal friendship",
+      "temporal_shape": "continuous late afternoon transport into a deepening night banquet",
+      "closure_type": "crossing a forbidden social threshold under summons",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "七叔", "程介", "谢岱", "顾昭", "姜衡", "姜馆家臣、仆役与侍女"],
+      "emotional_residue": "熊后被扣留的不安经程介的具体帮助变成短暂轻松，继而在女席传唤时重新收紧",
+      "material_residue": "整头黑熊留姜馆待验、过短粗麻借衣、顾昭所赐空食案，以及饶景行赤足进入内廊"
+    },
+    {
+      "chapter": 12,
+      "opening_mode": "entry into an ongoing women's banquet",
+      "dominant_force": "polite authority turning curiosity into coerced bodily display",
+      "temporal_shape": "one continuous late-night audience",
+      "closure_type": "social intrusion and frozen laughter",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "荀含章", "顾棠", "辛月娘", "季宛", "绮娘", "樊岳", "女席侍女与外廊守卫"],
+      "emotional_residue": "女席日常亲密逐步变成屈辱观看；顾棠迟到的制止无效，饶景行终于以短句守住最后衣物",
+      "material_residue": "鞋留外廊、短褐腰带绑腿与长裤叠在膝旁、只余贴身短裤，樊岳按住黑缠刀柄闯入"
+    },
+    {
+      "chapter": 13,
+      "opening_mode": "frozen laughter after an armed intrusion",
+      "dominant_force": "several warrior households competing to rename one scandal",
+      "temporal_shape": "continuous late-night dispute and preparation for a bout",
+      "closure_type": "first physical commitment without a result",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "樊岳", "程介", "谢岱", "姜衡", "顾昭", "姚简", "鲍峻", "段守约", "荀含章", "顾棠", "辛月娘"],
+      "emotional_residue": "脱衣屈辱转成刀下威胁；饶景行不能完整陈述事实，只能接受一场赢输皆危险的角抵",
+      "material_residue": "长裤、过短粗麻短褐与重新缠紧的绑腿；所有佩刀留在旧草席外，樊岳与饶景行首次搭手"
+    },
+    {
+      "chapter": 14,
+      "opening_mode": "continuation from the first locked grip",
+      "dominant_force": "finding a socially survivable loss inside a technically real contest",
+      "temporal_shape": "continuous bout followed by late-night material aftermath",
+      "closure_type": "temporary safety in an outer storehouse",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "樊岳", "姜衡", "顾昭", "程介", "谢岱", "姚简", "鲍峻", "段守约"],
+      "emotional_residue": "饶景行以主动狼狈换得活命，樊岳在公开胜利中察觉让局；程介的有限照料使紧张降为疲惫而非归属",
+      "material_residue": "翻倒酒桶与软屏、临时缝合的长裤、扯薄腰带、冷饭热水与受守卫看管的外仓旧席"
+    },
+    {
+      "chapter": 15,
+      "opening_mode": "watched waking in an outer storehouse",
+      "dominant_force": "delayed trauma beneath material reward",
+      "temporal_shape": "one morning settlement, solitary return, and late-night conversation",
+      "closure_type": "quiet preparation for an unknown mountain journey",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "程介", "谢岱", "姜馆管事与顾氏验猎家臣", "陶杏", "罗翁"],
+      "emotional_residue": "物质安全与身体创伤同时落定；饶景行第一次说出受辱，并产生让人有所忌惮的愿望",
+      "material_residue": "足够约一年生活的钱、三匹粗布、一大袋米、偏小旧草鞋，以及门边备好的药篓与竹杖"
+    },
+    {
+      "chapter": 16,
+      "opening_mode": "predawn rice meal and departure along an overgrown old road",
+      "dominant_force": "receiving a small local claim while learning that visible strength invites use",
+      "temporal_shape": "one continuous day of shrine maintenance, mountain labor, bodily testing, and first bamboo practice",
+      "closure_type": "repetition inside an unnamed stance at dusk",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "罗翁"],
+      "emotional_residue": "昨夜创伤没有消失，却被一块姓名木牌和罗翁开始实际教授身体控制，转成对有限庇护与未来役使的清醒",
+      "material_residue": "清通的隐祠泉槽、重新竖起的旧路碑、石龛中的姓名木牌、两篓冬药与一根已经裂口的短竹"
+    },
+    {
+      "chapter": 17,
+      "opening_mode": "night descent from the hidden shrine with loose sandal ties",
+      "dominant_force": "letting an unnamed combat practice alter ordinary winter preparation before military authority arrives",
+      "temporal_shape": "several winter-preparation days of interrupted practice followed by one morning levy count",
+      "closure_type": "summons to appear unarmed before the local manor",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "罗翁", "陶杏", "陶杏母亲", "陶二", "村中成人与儿童", "谢馆点役家臣与书手"],
+      "emotional_residue": "训练使身体控制略有形状，庙中认领第一次公开生效；村童仍亲近而成人开始保持距离，刚稳定的冬前生活被军役点名截断",
+      "material_residue": "分存的新米与庙粮、购入的盐豆薯菜、尚在针下的新衣、留在柴房的缠麻短竹，以及次日辰初赴谢馆的口头传召"
+    },
+    {
+      "chapter": 18,
+      "opening_mode": "predawn preparation and unarmed descent to the manor",
+      "dominant_force": "a local household turning dispersed villagers into a marching contingent while granting and using a provisional identity",
+      "temporal_shape": "one continuous winter muster day from breakfast to departure",
+      "closure_type": "physical departure from the local household boundary",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "罗翁", "程介", "谢岱", "谢垣", "章鹞", "陆槐", "陶庆山", "陶杏", "陶杏母亲", "谢馆足轻、役夫与家属"],
+      "emotional_residue": "寄籍带来被承认与被征发的双重不安；陶杏的孩子式送行使离村从一次差遣变成可能久别",
+      "material_residue": "留馆的寄籍记录、土黄新短褐、两根重新借出的麻绳、蓑衣饭袋短杠与饭袋外折中的褐纹小石"
+    },
+    {
+      "chapter": 19,
+      "opening_mode": "a small manor flag fully unfurling on the road",
+      "dominant_force": "successive military scales reducing a locally imposing household to one fragment of a negotiated coalition",
+      "temporal_shape": "one march afternoon, a cold camp night, and the following day of inspection and assembly",
+      "closure_type": "parallel banners establishing an unresolved coalition arrangement",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "程介", "谢岱", "谢垣", "章鹞", "陆槐", "顾昭", "姜衡", "顾衍", "段守约", "谢馆与石梁备众人", "抵达的赣南诸家"],
+      "emotional_residue": "饶景行从旗位、等待和复命距离看清自己所在的层级，也由同一数字变成数千具身体而第一次感到大军的实际重量",
+      "material_residue": "谢馆两车和小旗被纳入石梁备后营；饶景行仍携饭袋、背绳、短杠与褐纹小石，未获甲兵"
+    },
+    {
+      "chapter": 20,
+      "opening_mode": "four departure drums failing to move the rear column",
+      "dominant_force": "several independent armies forced into repeated contact by a road narrower than their political boundaries",
+      "temporal_shape": "ten-plus days compressed through several lived marches, camps, crossings, and roadside encounters",
+      "closure_type": "the entire coalition halted by the narrow face of a timber stockade",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "程介", "陆槐", "章鹞", "陶庆山", "顾昭", "姜衡", "黎崇峤", "钟彦章", "赖清臣", "温衡", "段守约", "沈砺与六名浪人", "沿路村民与流民"],
+      "emotional_residue": "行军中的玩笑与互助让谢馆后队暂成可依附的小群体；村人和流民的目光又使饶景行知道自己已属于一支令他人害怕的大军",
+      "material_residue": "谢馆两车抵达梅岭外栅后坡；饶景行草鞋换底、衣摆染泥、背绳补缠，仍无甲兵"
+    },
+    {
+      "chapter": 21,
+      "opening_mode": "the first arquebus shot interrupting drainage work behind empty casualty mats",
+      "dominant_force": "rear-line labor losing its emotional distance as organized violence sends back named and pleading bodies",
+      "temporal_shape": "one continuous first assault from morning preparation through evening battlefield cleanup",
+      "closure_type": "blood washed from water but retained under the fingernails",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "程介", "章鹞", "陆槐", "陶庆山", "陶顺", "沈砺与六名浪人", "裂嘴孙氏武士", "纹脸陀岚战首", "顾军与孙氏伤卒"],
+      "emotional_residue": "饶景行庆幸未上前线又为庆幸羞耻；未亲手杀人却因救助、搬运、观察和饥饿无法再将自己置于战争之外",
+      "material_residue": "顾氏占领第一外栅；沈砺小队一死两伤且本人甲裂腿伤；谢馆出现铳卒重伤、枪卒两伤一暂失，饶景行指甲留血"
+    },
+    {
+      "chapter": 22,
+      "opening_mode": "the mountain road abruptly opening into the northern Nanxiong basin",
+      "dominant_force": "rear-line competence feeding a false belief that visible battlefield mistakes would be easy to correct in person",
+      "temporal_shape": "several days after the stockade, one daylight basin battle, evening camp work, and a continuous storm raid",
+      "closure_type": "first enemy spear already entering while the borrowed blade reaches the rear-held stance",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "程介", "谢垣", "章鹞", "陆槐", "陶庆山", "谢馆役夫与足轻", "顾黎孙三方局部军势", "陀岚轻骑"],
+      "emotional_residue": "真实身体优势和远处所见共同滋养了未经实战验证的自信；暴雨突然撤掉役夫位置提供的距离",
+      "material_residue": "白皮缚头、半塌草棚、被水切断的营道，以及从倒地友军武士身旁拾得的三痕无鞘旧刀"
+    },
+    {
+      "chapter": 23,
+      "opening_mode": "the already-committed enemy spear entering from beneath the collapsed shelter",
+      "dominant_force": "real bodily superiority producing lethal success while coordinated reach and battlefield disorder deny mastery",
+      "temporal_shape": "continuous rain-night close combat, local rally, and unauthorized pursuit",
+      "closure_type": "choosing an armored rearguard warrior over an easier fleeing foot soldier",
+      "pov": "饶景行",
+      "active_characters": ["饶景行", "程介", "谢岱", "谢垣", "陆槐", "章鹞", "陶庆山", "顾昭", "姜衡", "沈砺", "谢馆与石梁备足轻役夫", "孙氏与陀岚突袭者"],
+      "emotional_residue": "五次杀敌使恐惧、恶心和兴奋并存；三枪败退没有带来谦逊，反而被主角解释为位置与条件不足",
+      "material_residue": "三项可申报的普通足轻战功、两项无人见证的杀敌、左上臂浅伤、崩缺旧刀，以及擅自越过谢馆横车的追击"
+    }
+  ]
+}

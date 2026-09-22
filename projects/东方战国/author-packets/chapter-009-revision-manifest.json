@@ -1,0 +1,53 @@
+{
+  "chapter": 9,
+  "revision": 2,
+  "latest_approved_prose": {
+    "path": "chapters/chapter-008.md",
+    "tail_characters": 4500
+  },
+  "situation_seed_path": "situation-seeds/chapter-009-revision-seed.md",
+  "project_core_path": "author-voice/project-core.md",
+  "pov_lens_path": "author-voice/pov-lenses/protagonist.md",
+  "relationship_lens_paths": [
+    "author-voice/relationship-lenses/饶景行与守庙老人.md"
+  ],
+  "scene_mode_path": "author-voice/scene-modes/诸侯与家臣对话.md",
+  "active_scene_facts": [
+    {
+      "source": "chapters/chapter-008.md",
+      "text": "馆里只凭外号、三猪、烟肉和异常力量召见异乡人；正式姓名尚未在本地权力场合报告。",
+      "activation": "召见迫使饶景行在无法证明真实来历时选择一套风险最小的公开说法。"
+    },
+    {
+      "source": "chapters/chapter-008.md",
+      "text": "饶景行体格随营养恢复，旧衣被猪牙撕裂，村中难找合身衣物。",
+      "activation": "借衣、跪坐与崩线把身体异常和社交狼狈放在同一场景。"
+    },
+    {
+      "source": "world/03-warrior-household-etiquette.md",
+      "text": "陌生平民必须经过外门、武器与礼物交接、脱鞋、候问和门边下席；谁能先说话、看向何处、在哪里吃饭均受身份限制。",
+      "activation": "每条礼法通过动作受阻或当场纠正显现，不作制度讲解。"
+    },
+    {
+      "source": "user correction, 2026-08-11",
+      "text": "饶景行从不认为自己是军人，不说远地来历，不暴露本地识读或绘画见解；只称高烧后旧事失去。",
+      "activation": "馆内问答必须短、被动、可持续，能力只说成手脚尚会而来处记不得。"
+    },
+    {
+      "source": "approved chapter 9 event skeleton",
+      "text": "馆中第一次正式记录饶景行姓名，但不由他确认字形，也不因此授予家名、户籍、俸禄或武士身份。",
+      "activation": "姓名由书吏按读音记录，纸张仍掌握在馆中。"
+    },
+    {
+      "source": "approved chapter 9 event skeleton",
+      "text": "馆主令饶景行参加秋猎外围劳作，只负责背旗、驮运、驱赶与搬物，不触弓、不进武士射线。",
+      "activation": "结尾得到的是受约束的差遣，不是身份晋升。"
+    }
+  ],
+  "directive_snippets": [
+    {
+      "text": "完整重写第九章；突出等级森严与失礼风险；保留轻松生活质感；非空白字符至少10000；不提前写围猎、顾棠或熊袭。"
+    }
+  ],
+  "maximum_context_characters": 20000
+}

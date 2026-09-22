@@ -1,0 +1,41 @@
+{
+  "project": "东方战国",
+  "language": "zh-CN",
+  "layout": "modular-author-packet",
+  "paths": {
+    "storyBible": "story-bible.md",
+    "seriesPlan": "series-plan.md",
+    "continuity": "continuity-ledger.md",
+    "openThreads": "open-threads.md",
+    "proseBasis": "prose-basis.md",
+    "projectVoice": "author-voice/project-core.md",
+    "protagonistPov": "author-voice/pov-lenses/protagonist.md",
+    "characters": "characters/{character}.md",
+    "authoringContextIndex": "authoring-context-index.md",
+    "directives": "narrative-directives.md",
+    "validation": "validation-rules.md",
+    "situationSeeds": "situation-seeds/chapter-{chapter}-seed.md",
+    "drafts": "drafts/chapter-{chapter}-draft.md",
+    "chapters": "chapters/chapter-{chapter}.md"
+  },
+  "approval": {
+    "mode": "layer-by-layer",
+    "draftsAreCanon": false,
+    "unapprovedProposalsAreCanon": false
+  },
+  "collaboration": {
+    "subagentsForWriting": false,
+    "mode": "single-context-sequential"
+  },
+  "contextLoading": {
+    "mode": "indexed-isolated-author-packet",
+    "validationLoadsAfterDraft": true
+  },
+  "chapterScope": {
+    "unit": "non_whitespace_chinese_characters",
+    "target": 11000,
+    "hardMinimum": 10000,
+    "hardMaximum": null,
+    "longDraftPolicy": "keep_if_sound"
+  }
+}
